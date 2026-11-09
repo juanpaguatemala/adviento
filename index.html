@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Adviento · BienCatólicos</title>
+  <meta name="description" content="Vive el Adviento en familia: reflexión diaria, corona digital, calendario de buenas acciones, retiros personal, familiar y de pareja, posadas y más. Una iniciativa de BienCatólicos.com.">
+  <meta name="theme-color" content="#4B2A7B">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Adviento · BienCatólicos">
+  <meta property="og:description" content="Enciende tu luz y prepara tu corazón para la Navidad: reflexiones, corona digital, retiros, posadas y buenas acciones.">
+  <meta property="og:image" content="/img/og.png">
+  <meta property="og:locale" content="es_GT">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="manifest" href="/manifest.json">
+  <link rel="icon" href="/img/icono-192.png" type="image/png">
+  <link rel="apple-touch-icon" href="/img/icono-180.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@500;600;700;800&family=Lora:ital,wght@0,400;0,600;1,400&display=swap">
+  <link rel="stylesheet" href="/css/app.css">
+  <script>
+    // Tema y tamaño de letra antes de pintar, para evitar parpadeos.
+    try {
+      var t = localStorage.getItem('adv26-tema');
+      if (!t && window.matchMedia && matchMedia('(prefers-color-scheme: dark)').matches) t = 'dark';
+      if (t) document.documentElement.setAttribute('data-theme', t);
+      var e = localStorage.getItem('adv26-escala'); if (e) document.documentElement.style.setProperty('--escala', e);
+    } catch (err) {}
+  </script>
+</head>
+<body>
+  <div class="app">
+    <header class="cabecera">
+      <a class="marca" href="#/hoy" aria-label="Adviento, inicio">Bien<span>Católicos</span> <small>· Adviento</small></a>
+      <div class="acciones">
+        <button class="icono-btn" id="btn-letra" type="button" aria-label="Cambiar tamaño de letra">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 19l5-14 5 14M6 14h6M15 19l3-8 3 8M16 16.5h4"/></svg>
+        </button>
+        <button class="icono-btn" id="btn-tema" type="button" aria-label="Modo vela (oscuro)">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>
+        </button>
+      </div>
+    </header>
+
+    <main id="vista" class="vista" tabindex="-1" aria-live="polite">
+      <div class="cargando">Preparando tu Adviento…</div>
+    </main>
+
+    <footer class="pie">
+      <nav class="pie-menu" aria-label="Todas las secciones">
+        <a href="#/hoy">Hoy</a>
+        <a href="#/encuentro">Mi encuentro diario</a>
+        <a href="#/calendario">Buenas acciones</a>
+        <a href="#/retiros">Retiros</a>
+        <a href="#/domingos">Domingos de Adviento</a>
+        <a href="#/posadas">Posadas</a>
+        <a href="#/sanlucas">San Lucas Challenge</a>
+        <a href="#/oraciones">Oraciones y tradiciones</a>
+        <a href="#/aprende">Aprende</a>
+        <a href="#/mas">Ajustes y acerca de</a>
+      </nav>
+      <div class="logo">Bien<span>Católicos</span>.com</div>
+      <p>Adviento es un proyecto de evangelización para personas, matrimonios y familias gracias al esfuerzo de <b>BienCatólicos.com</b>, un portal de noticias católicas de Guatemala, con información sobre la Iglesia Católica en Guatemala y el mundo, parroquias, sacerdotes, Vaticano, evangelización y formación. Nuestro objetivo es ofrecer contenidos que ayuden a las familias a crecer juntas en el amor y en la fe.</p>
+      <a class="visitar" href="https://www.biencatolicos.com/">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3a14 14 0 0 1 0 18M12 3a14 14 0 0 0 0 18"/></svg>Visitar BienCatólicos.com</a>
+    </footer>
+
+    <nav class="nav-inferior" aria-label="Navegación principal">
+      <a href="#/hoy" data-ruta="hoy">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3c2 3 3 4.5 3 6.5a3 3 0 0 1-6 0C9 7.5 10 6 12 3z"/><rect x="9" y="13" width="6" height="8" rx="1"/></svg>Hoy</a>
+      <a href="#/calendario" data-ruta="calendario">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M3 10h18M8 3v4M16 3v4"/></svg>Calendario</a>
+      <a href="#/retiros" data-ruta="retiros">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M2 5h7a3 3 0 0 1 3 3v12a2 2 0 0 0-2-2H2z"/><path d="M22 5h-7a3 3 0 0 0-3 3v12a2 2 0 0 1 2-2h8z"/></svg>Retiros</a>
+      <a href="#/posadas" data-ruta="posadas">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 11l9-7 9 7"/><path d="M5 10v10h14V10"/><path d="M10 20v-6h4v6"/></svg>Posadas</a>
+      <a href="#/mas" data-ruta="mas">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="5" cy="12" r="1.6"/><circle cx="12" cy="12" r="1.6"/><circle cx="19" cy="12" r="1.6"/></svg>Más</a>
+    </nav>
+  </div>
+
+  <script src="/js/base.js"></script>
+  <script src="/js/corona.js"></script>
+  <script src="/js/lector.js"></script>
+  <script src="/js/retiros.js"></script>
+  <script src="/js/vistas.js"></script>
+  <script src="/js/app.js"></script>
+</body>
+</html>

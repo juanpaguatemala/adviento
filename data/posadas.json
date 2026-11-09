@@ -1,0 +1,217 @@
+{
+ "intro": [
+  "¡Las posadas son una hermosa tradición llena de fe, alegría y sentido espiritual! Su importancia radica en que nos preparan para la celebración del nacimiento de Jesús, ayudándonos a meditar en el misterio de la Encarnación y a vivir un auténtico espíritu de comunidad, acogida y esperanza.",
+  "¿Qué son las posadas?",
+  "Las posadas son una serie de celebraciones que se llevan a cabo del 16 al 24 de diciembre, los nueve días previos a la Navidad. Estas fiestas representan el peregrinar de María y José desde Nazaret hasta Belén, en busca de un lugar donde pudiera nacer el Salvador.",
+  "Durante cada noche de las posadas, se rememora el rechazo que la Sagrada Familia enfrentó al buscar posada y se medita en el acto final de hospitalidad que permitió que Jesús naciera en un humilde pesebre. Las posadas no son solo un acto festivo; son un ejercicio espiritual que invita a reflexionar sobre nuestra disposición para acoger a Jesús en nuestra vida.",
+  "Posadas en Guatemala",
+  "Las posadas provienen de una práctica que se originó en México en el siglo XVI, influenciada por la evangelización de los misioneros españoles. La tradición se introdujo en Guatemala y otros países de Centroamérica, adaptándose a las costumbres locales. En este contexto, las posadas representan el viaje de la Virgen María y San José desde Nazaret hacia Belén, buscando un lugar donde pasar la noche. Santo Hermano Pedro fue uno de los mayores promotores de tan bello peregrinaje."
+ ],
+ "rito": [
+  "En el nombre del Padre y del Hijo + y del Espíritu Santo.",
+  "Amén",
+  "Hermanos, estamos aquí reunidos para recordar el camino de María y José a Belén. Así como Dios preparó al pueblos de Israel para recibir al Salvador, hoy nosotros en esta posada nos vamos a preparar para celebrar la fiesta de Navidad, que es la fiesta de la venida de Dios entre nosotros.",
+  "Hermanos, pidámosle perdón a Dios por nuestros pecados. Especialmente, cuando hemos sido egoístas y no atendemos con caridad las necesidades de los demás Digamos todos:",
+  "Yo confieso ante Dios todopoderoso y ante vosotros hermanos que he pecado mucho de pensamiento, palabra y omisión, por mi culpa, por mi culpa, por mi grande culpa. Por eso ruego a Santa María siempre Virgen, a los ángeles y a vosotros hermanos que intercedan por mí ante Dios nuestro Señor.",
+  "Bajo tu amparo nos acogemos Santa Madre de Dios. No deseches las súplicas que te dirigimos en Nuestras necesidades, antes bien líbranos de todos los peligros, oh Virgen gloriosa y bendita. Ruega por nosotros Santa Madre de Dios.",
+  "Para que merezcamos alcanzar las gracias prometidas por Jesucristo."
+ ],
+ "instruccion": "Se leen las siguientes lecturas correspondientes al día, al finalizar desciende para la petición de posada y termina con la oración.",
+ "dias": [
+  {
+   "dia": 1,
+   "titulo": "La Anunciación",
+   "cita": "San Lucas 1, 26-38",
+   "lectura": [
+    "En aquel tiempo, el ángel Gabriel fue enviado por Dios a una ciudad de Galilea, llamada Nazaret, a una virgen desposada con un varón de la estirpe de David, llamado José. La virgen se llamaba María.",
+    "Entró el ángel a donde ella estaba y le dijo: “Alégrate, llena de gracia, el Señor está contigo”. Al oír estas palabras, ella se preocupó mucho y se preguntaba qué querría decir semejante saludo.",
+    "El ángel le dijo: “No temas, María, porque has hallado gracia ante Dios. Vas a concebir y a dar a luz un hijo y le pondrás por nombre Jesús. Él será grande y será llamado Hijo del Altísimo; el Señor Dios le dará el trono de David, su padre, y él reinará sobre la casa de Jacob por los siglos y su reinado no tendrá fin”.",
+    "María le dijo entonces al ángel: “¿Cómo podrá ser esto, puesto que yo permanezco virgen?”. El ángel le contestó: “El Espíritu Santo descenderá sobre ti y el poder del Altísimo te cubrirá con su sombra. Por eso, el Santo, que va a nacer de ti, será llamado Hijo de Dios. Ahí tienes a tu parienta Isabel, que a pesar de su vejez, ha concebido un hijo y ya va en el sexto mes la que llamaban estéril, porque no hay nada imposible para Dios”. María contestó: “Yo soy la esclava del Señor; cúmplase en mí lo que me has dicho”. Y el ángel se retiró de su presencia."
+   ],
+   "reflexion": [
+    "El relato de la Anunciación nos invita a contemplar el misterio de la Encarnación, ese momento sublime en que Dios decidió hacerse hombre en el seno de una joven sencilla, en un pueblo pequeño. María, llena de gracia, escuchó las palabras del ángel: “Alégrate, llena de gracia, el Señor está contigo”. Este saludo nos recuerda que Dios no se fija en la grandeza del mundo, sino en la humildad del corazón.",
+    "Ante el anuncio del ángel, María respondió con valentía y fe, incluso sin entender completamente lo que esto significaría para su vida. Su pregunta, “¿Cómo será esto, puesto que no conozco varón?”, no es un signo de duda, sino de deseo de comprender mejor el plan de Dios. Su respuesta final, “He aquí la esclava del Señor; hágase en mí según tu palabra”, nos muestra el ejemplo perfecto de confianza en la voluntad divina."
+   ],
+   "pregunta": "¿De qué manera expresas tu alegría porque “el Señor está contigo?",
+   "oracion": "Dios nos promete un salvador. Señor, mira a tu pueblo aquí reunido y concédenos un corazón abierto y dispuesto para recibir la salvación que nos ofreces a través de tu Hijo Jesucristo, que ha venido a traernos vida, reconciliándonos contigo, y que vive y reina contigo en la unidad del Espíritu Santo. Amén.",
+   "peticion": "Hoy te pedimos por todas la(s) familia(s) aquí reunida.",
+   "fecha": "2026-12-16"
+  },
+  {
+   "dia": 2,
+   "titulo": "Visita de María a su prima Isabel",
+   "cita": "San Lucas 1, 39-45",
+   "lectura": [
+    "En aquellos días, se levantó María y se fue con prontitud a la región montañosa, a una ciudad de Judá; entró en casa de Zacarías y saludó a Isabel.",
+    "Y sucedió que, en cuanto oyó Isabel el saludo de María, saltó de gozo el niño en su seno, e Isabel quedó llena de Espíritu Santo; y exclamando con gran voz, dijo: “Bendita tú entre las mujeres y bendito el fruto de tu seno; y ¿de dónde a mí que la madre de mi Señor venga a mí? Porque, apenas llegó a mis oídos la voz de tu saludo, saltó de gozo el niño en mi seno.",
+    "¡Feliz la que ha creído que se cumplirían las cosas que le fueron dichas de parte del Señor!”"
+   ],
+   "reflexion": [
+    "En este pasaje vemos a María, recién habiendo recibido la noticia del ángel, apresurarse a la región montañosa para visitar a su prima Isabel, quien también había sido bendecida por Dios con el milagro de un hijo en su vejez. María no se queda en la comodidad de su casa, ni se encierra en la grandeza de haber sido escogida como Madre de Dios. Al contrario, se pone en camino con prontitud, movida por el amor y el deseo de servir.",
+    "Este gesto de María nos recuerda que el amor auténtico no espera, sino que actúa. En las posadas, recordamos cómo María y José buscaron hospedaje para traer al mundo al Salvador. Así también, María, al visitar a Isabel, llevaba consigo la presencia de Jesús en su seno, siendo la primera \"posada\" del Señor en la historia de la salvación.",
+    "Cuando María llega, Isabel es llena del Espíritu Santo, y su hijo Juan salta de gozo en su vientre. Este encuentro es una fiesta espiritual, un anticipo de la alegría que Cristo trae al mundo. Isabel proclama: “Bendita tú entre las mujeres y bendito el fruto de tu vientre”, reconociendo con humildad y fe que María es la Madre del Señor. Su alabanza nos invita a hacer lo mismo: a bendecir a María, quien nos trae a Jesús.",
+    "En las posadas, al abrirle nuestro hogar y nuestro corazón a Jesús y a María, estamos llamados a reflejar el gozo y la gratitud de Isabel. Así como Isabel y Juan fueron transformados por la presencia de Cristo en María, nosotros también podemos ser llenos de alegría y gracia cuando acogemos a Dios en nuestra vida."
+   ],
+   "pregunta": "¿De qué manera llevamos a Cristo en nuestro interior, como María, para que ante nuestra presencia los demás se llenen de gozo como Isabel?",
+   "oracion": "Dios escoge a un pueblo. Señor Dios nuestro, ayúdanos a saber construir en el mundo un pueblo según tu corazón, donde reine la justicia, el amor y la fraternidad. Te lo pedimos por tu Hijo, en quien somos tus hijos, Jesucristo, nuestro Señor. Amén.",
+   "peticion": "Hoy te pedimos por todos los niños de nuestra comunidad.",
+   "fecha": "2026-12-17"
+  },
+  {
+   "dia": 3,
+   "titulo": "El Magnificat",
+   "cita": "San Lucas 1, 46-55",
+   "lectura": [
+    "Y dijo María: “Engrandece mi alma al Señor y mi espíritu se alegra en Dios mi salvador porque ha puesto los ojos en la humildad de su esclava, por eso desde ahora todas las generaciones me llamarán bienaventurada, porque ha hecho en mi favor maravillas el Poderoso, Santo es su nombre y su misericordia alcanza de generación en generación a los que le temen.",
+    "Desplegó la fuerza de su brazo, dispersó a los que son soberbios en su propio corazón. Derribó a los potentados de sus tronos y exaltó a los humildes. A los hambrientos colmó de bienes y despidió a los ricos sin nada.",
+    "Acogió a Israel, su siervo, acordándose de la misericordia como había anunciado a nuestros padres en favor de Abraham y de su linaje por los siglos.”"
+   ],
+   "reflexion": [
+    "En este cántico, María proclama la grandeza de Dios: “Proclama mi alma la grandeza del Señor; se alegra mi espíritu en Dios, mi salvador”. Sus palabras son un himno de alabanza que brota de su alma, reconociendo la obra de Dios en su vida y en la historia de la salvación. María, consciente de su pequeñez, reconoce que todo lo que tiene y es proviene de la misericordia y el amor del Señor.",
+    "El Magníficat no es solo un canto de alabanza personal, sino un testimonio de cómo Dios actúa en el mundo. Ella proclama que Dios exalta a los humildes, sacia a los hambrientos y derriba a los poderosos de sus tronos. Es un canto de esperanza, que muestra que el plan de Dios está lleno de justicia, misericordia y amor para los pequeños y necesitados.",
+    "Durante las posadas, este pasaje nos invita a meditar en la actitud de María: una joven sencilla y humilde que, al recibir la inmensa gracia de ser la Madre de Dios, no se gloría en sí misma, sino que exalta a Dios. Su cántico nos enseña a dar gracias al Señor por las bendiciones recibidas y a confiar en su providencia en los momentos de dificultad."
+   ],
+   "pregunta": "¿Con qué te identificas de lo que dice María en esta oración?, ¿qué frase o frases describen la manera como ves a Dios y como te relacionas con Él?",
+   "oracion": "Jesús, el mesías. Señor, Padre de bondad, concédenos ser hijos tuyos como tu Hijo, que buscó y amó siempre tu voluntad por encima de todas las cosas. Te lo pedimos por Él que es nuestro Señor y vive y reina por los siglos de los siglos. Amén.",
+   "peticion": "Hoy te pedimos por todos los jóvenes de nuestra comunidad.",
+   "fecha": "2026-12-18"
+  },
+  {
+   "dia": 4,
+   "titulo": "El Benedictus",
+   "cita": "San Lucas 1, 78-79",
+   "lectura": [
+    "Por las entrañas de misericordia de nuestro Dios, que harán que nos visite una Luz de la altura, a fin de iluminar a los que habitan en tinieblas y sombras de muerte y guiar nuestros pasos por el  camino de la paz."
+   ],
+   "reflexion": [
+    "En estas breves pero profundas palabras, Zacarías, inspirado por el Espíritu Santo, proclama la promesa cumplida de Dios: un Salvador que viene a traer luz, misericordia y paz. Este \"sol que nace de lo alto\" es Cristo, la luz del mundo, que disipa las tinieblas del pecado y de la muerte.",
+    "Durante las posadas, que simbolizan el peregrinar de María y José en busca de un lugar para que naciera Jesús, este pasaje nos recuerda que no importa cuán oscuras sean nuestras circunstancias, la luz de Cristo siempre está presente, iluminando nuestro camino y dándonos esperanza."
+   ],
+   "pregunta": "¿Qué significa en tu vida que Jesús sea Luz que alumbra las tinieblas?",
+   "oracion": "Dios da esperanza y consuelo. Señor de bondad, tú que nunca te olvidas de tus criaturas aunque ellas se olviden de ti, concédenos la gracia de reconocer el amor inmenso que nos tienes, de que reconociéndote a ti como Padre, descubramos en los demás a nuestros hermanos. Por Jesucristo tu Hijo y Señor nuestro. Amén.",
+   "peticion": "Hoy te pedimos por todos los ancianos olvidados en nuestra comunidad.",
+   "fecha": "2026-12-19"
+  },
+  {
+   "dia": 5,
+   "titulo": "Viaje de José y María",
+   "cita": "San Lucas 2, 1-7",
+   "lectura": [
+    "Sucedió que por aquellos días salió un edicto de César Augusto ordenando que se empadronase todo el mundo.",
+    "Este primer empadronamiento tuvo lugar siendo gobernador de Siria Cirino. Iban todos a empadronarse, cada uno a su ciudad. Subió también José desde Galilea, de la ciudad de Nazaret, a Judea, a la ciudad de David, que se llama Belén, por ser él de la casa y familia de David, para empadronarse con María, su esposa, que estaba encinta.",
+    "Y sucedió que, mientras ellos estaban allí, se le cumplieron los días del alumbramiento, y dio a luz a su hijo primogénito, le envolvió en pañales y le acostó en un pesebre, porque no tenían sitio en el alojamiento."
+   ],
+   "reflexion": [
+    "Este relato nos invita a contemplar la sencillez y humildad del nacimiento de Jesús, el Rey de reyes, que eligió venir al mundo en la pobreza y el desamparo. María y José, obedientes a las leyes humanas y confiando en la providencia divina, emprendieron un viaje difícil hacia Belén, incluso cuando María estaba a punto de dar a luz. A pesar de las dificultades y del rechazo en las posadas, Jesús vino al mundo en la pobreza de un pesebre, revelándonos que la verdadera grandeza no se encuentra en el poder o las comodidades, sino en el amor y la humildad.",
+    "Este pasaje nos invita a reflexionar sobre cómo recibimos a Cristo en nuestra vida. Muchas veces, como los habitantes de Belén, podemos cerrarle la puerta porque estamos ocupados o distraídos con otras cosas. Pero Jesús no busca grandes palacios ni riquezas; Él desea entrar en el pesebre de nuestro corazón, en medio de nuestra fragilidad y pequeñez.",
+    "Las posadas son un llamado a hacer espacio para Jesús en nuestra vida. Así como María y José perseveraron hasta encontrar un lugar para que naciera el Salvador, nosotros también debemos preparar nuestro corazón con humildad y generosidad para acogerlo. Además, este relato nos invita a mirar con amor y solidaridad a quienes hoy, como la Sagrada Familia, enfrentan rechazo, pobreza o falta de hogar."
+   ],
+   "pregunta": "¿Quiénes son las personas o grupos de personas que no encuentran posada en nuestra casa, en nuestro corazón?",
+   "oracion": "El Señor siempre cumple sus promesas. Oh Dios, que nunca te olvidas de cumplir lo que prometes, haz que, a ejemplo de la Virgen María, estemos siempre atentos a escuchar tu Palabra y a cumplir tu voluntad, a fin de que nazca, también en nosotros Jesús, tu Hijo amado que vive y reina por los siglos de los siglos. Amén.",
+   "peticion": "Hoy te pedimos por todas las mujeres de esta comunidad.",
+   "fecha": "2026-12-20"
+  },
+  {
+   "dia": 6,
+   "titulo": "Los Reyes Magos",
+   "cita": "San Mateo 2, 1-12",
+   "lectura": [
+    "Cuando nació Jesús, en Belén de Judea, bajo el reinado de Herodes, unos magos de Oriente se presentaron en Jerusalén y preguntaron: “¿Dónde está el rey de los judíos que acaba de nacer? Porque vimos su estrella en Oriente y hemos venido a adorarlo”.",
+    "Al enterarse, el rey Herodes quedó desconcertado y con él toda Jerusalén. Entonces reunió a todos los sumos sacerdotes y a los escribas del pueblo, para preguntarles en qué lugar debía nacer el Mesías.",
+    "“En Belén de Judea, le respondieron, porque así está escrito por el Profeta: Y tú, Belén, tierra de Judá, ciertamente no eres la menor entre las principales ciudades de Judá, porque de ti surgirá un jefe que será el Pastor de mi pueblo, Israel”.",
+    "Herodes mandó llamar secretamente a los magos y después de averiguar con precisión la fecha en que había aparecido la estrella, los envió a Belén, diciéndoles: “Vayan e infórmense cuidadosamente acerca del niño, y cuando lo hayan encontrado, avísenme para que yo también vaya a rendirle homenaje”.",
+    "Después de oír al rey, ellos partieron. La estrella que habían visto en Oriente los precedía, hasta que se detuvo en el lugar donde estaba el niño.",
+    "Cuando vieron la estrella se llenaron de alegría, y al entrar en la casa, encontraron al niño con María, su madre, y postrándose, le rindieron homenaje. Luego, abriendo sus cofres, le ofrecieron dones: oro, incienso y mirra.",
+    "Y como recibieron en sueños la advertencia de no regresar al palacio de Herodes, volvieron a su tierra por otro camino."
+   ],
+   "reflexion": [
+    "Este relato nos muestra el camino de los sabios como símbolo de nuestra propia búsqueda de Dios. Los magos, aunque eran extranjeros y no pertenecían al pueblo judío, reconocieron en la estrella un signo divino y emprendieron un viaje lleno de desafíos para encontrar al Salvador. Ellos no se detuvieron ante las dificultades ni las dudas; con fe y perseverancia siguieron la luz hasta llegar al Niño Jesús.",
+    "El pasaje también nos presenta un contraste: los magos buscaban adorar al Rey verdadero, mientras que Herodes veía en Él una amenaza para su poder. Esto nos invita a preguntarnos: ¿Busco a Jesús para adorarlo con humildad, o a veces me cierro a Él porque temo lo que su presencia pueda cambiar en mi vida?"
+   ],
+   "pregunta": "¿Quiénes son las personas o grupos de personas que no encuentran posada en nuestra casa, en nuestro corazón?",
+   "oracion": "Dios nos pone en movimiento. Señor, Dios Padre bueno que nos has mandado amarnos y servirnos mutuamente, haz que, a ejemplo de María, que se apresuró a cruzar las montañas para servir a su prima necesitada, nos dispongamos a recibir a tu Hijo sirviendo a los hermanos. Te lo pedimos por Jesucristo nuestro Señor. Amén.",
+   "peticion": "Hoy te pedimos por todas los sacerdotes, laicos en servicio, apostolados y grupos de oración.",
+   "fecha": "2026-12-21"
+  },
+  {
+   "dia": 7,
+   "titulo": "Herodes",
+   "cita": "San Mateo 2, 13-16",
+   "lectura": [
+    "Después de la partida de los magos, el Ángel del Señor se apareció en sueños a José y le dijo: “Levántate, toma al niño y a su madre, huye a Egipto y permanece allí hasta que yo te avise, porque Herodes va a buscar al niño para matarlo”.",
+    "José se levantó, tomó de noche al niño y a su madre, y se fue a Egipto. Allí permaneció hasta la muerte de Herodes, para que se cumpliera lo que el Señor había anunciado por medio del Profeta: Desde Egipto llamé a mi hijo.",
+    "Al verse engañado por los magos, Herodes se enfureció y mandó matar, en Belén y sus alrededores, a todos los niños menores de dos años, de acuerdo con la fecha que los magos le habían indicado."
+   ],
+   "reflexion": [
+    "Este pasaje nos habla de la valentía y la obediencia de San José, quien, ante el mensaje del ángel, responde con prontitud y confianza en Dios. Aunque no entiende completamente los planes divinos, actúa con fe para proteger a Jesús y a María. Su ejemplo nos invita a reflexionar sobre nuestra disposición para escuchar y seguir la voluntad de Dios, incluso en circunstancias difíciles o inesperadas.",
+    "La huida a Egipto no solo es un acto de protección, sino también un símbolo del exilio y la peregrinación. Así como el pueblo de Israel fue llevado a Egipto antes de ser liberado, la Sagrada Familia también pasa por un tiempo de destierro antes de que Jesús sea reconocido como el Salvador. Esto nos recuerda que en la vida cristiana muchas veces debemos atravesar desiertos y desafíos, confiando en que Dios guía nuestros pasos hacia la salvación.",
+    "En las posadas, recordamos la búsqueda de refugio por parte de María y José, que fueron rechazados una y otra vez. Esta experiencia de la Sagrada Familia nos llama a abrir nuestro corazón y hogar al prójimo, especialmente a quienes, como ellos, enfrentan situaciones de rechazo, persecución o necesidad."
+   ],
+   "pregunta": "¿Por qué Herodes quería matar al Niño?, ¿Cómo reaccionamos ante quienes nos cuestionan o incomodan, especialmente cuando son más débiles o pobres que nosotros?",
+   "oracion": "Dios de bondad que suscitaste en José, un hombre justo para ser el padre adoptivo de Jesús, concédenos un corazón siempre abierto a la justicia y a la preocupación por los demás, que alcancemos ser justos como tú mismo eres justo. Te lo pedimos por Jesucristo, tu Hijo, nuestro Señor. Amén.",
+   "peticion": "Hoy te pedimos por todos los padres de familia de esta comunidad.",
+   "fecha": "2026-12-22"
+  },
+  {
+   "dia": 8,
+   "titulo": "Los pastores",
+   "cita": "San Lucas 2, 8-20",
+   "lectura": [
+    "Había en la misma comarca unos pastores, que dormían al raso y vigilaban por turno durante la noche su rebaño. Se les presentó el Ángel del Señor, y la gloria del Señor los envolvió en su luz; y se llenaron de temor.",
+    "El ángel les dijo: “No temáis, pues os anuncio una gran alegría, que lo será para todo el pueblo: os ha nacido hoy, en la ciudad de David, un salvador, que es el Cristo Señor; y esto os servirá de señal: encontraréis un niño envuelto en pañales y acostado en un pesebre.”",
+    "Y de pronto se juntó con el ángel una multitud del ejército celestial, que alababa a Dios, diciendo: “Gloria a Dios en las alturas y en la tierra paz a los hombres en quienes él se complace.”",
+    "Y sucedió que cuando los ángeles, dejándoles, se fueron al cielo, los pastores se decían unos a otros: “Vayamos, pues, hasta Belén y veamos lo que ha sucedido y el Señor nos ha manifestado.”",
+    "Y fueron a toda prisa, y encontraron a María y a José, y al niño acostado en el pesebre. Al verlo, dieron a conocer lo que les habían dicho acerca de aquel niño; y todos los que lo oyeron se maravillaban de lo que los pastores les decían.",
+    "María, por su parte, guardaba todas estas cosas, y las meditaba en su corazón. Los pastores se volvieron glorificando y alabando a Dios por todo lo que habían oído y visto, conforme a lo que se les había dicho."
+   ],
+   "reflexion": [
+    "Este relato es un canto de gozo y humildad que revela cómo Dios se manifiesta a los más sencillos. Los pastores, que eran considerados pobres y marginados en su tiempo, fueron los primeros en recibir la gran noticia del nacimiento del Salvador. Esto nos enseña que el amor de Dios no depende de nuestras riquezas o posición, sino de la apertura y sencillez de nuestro corazón.",
+    "El anuncio del ángel comienza con una invitación a la confianza: “No teman”. Dios viene a traernos una alegría inmensa, no solo para unos pocos, sino para “todo el pueblo”. Esta buena noticia sigue resonando hoy: Jesús, nuestro Salvador, ha nacido para librarnos del pecado y traernos paz y esperanza.",
+    "La señal dada por el ángel es sorprendente: no encontrarán al Mesías en un palacio, sino en un pesebre, envuelto en pañales. Esto nos recuerda que Dios elige la humildad y la sencillez como el camino para revelarse al mundo. En las posadas, esta imagen nos llama a valorar lo esencial, despojándonos de las apariencias y abriendo nuestro corazón a la presencia de Dios en lo pequeño y ordinario.",
+    "Al escuchar el mensaje, los pastores no dudan; con prontitud y entusiasmo, van a Belén para ver al Niño. Su respuesta nos invita a actuar con fe y decisión cuando Dios nos llama. Y, al encontrar a Jesús, no se quedan en el silencio: comparten la buena noticia con alegría y alaban a Dios por lo que han visto. Su ejemplo nos invita a ser testigos de la luz de Cristo en el mundo.",
+    "María, en medio de este gozo, guarda y medita todo en su corazón. Nos enseña a detenernos y contemplar las maravillas de Dios en nuestra vida, dejando que su amor transforme nuestro interior."
+   ],
+   "pregunta": "¿Por qué crees que los ángeles les dieron el anuncio primero que a nadie a los pastores? ¿Quiénes son los favoritos de Dios y por qué?",
+   "oracion": "Dios busca un lugar entre nosotros. Señor, Dios de bondad, que quisiste buscar un lugar en medio de nosotros para poner tu casa, concédenos un corazón abierto y hospitalario, que estemos dispuestos a recibir con alegría a tu Hijo que vive y reina contigo por los siglos de los siglos. Amén.",
+   "peticion": "Hoy te pedimos por todas aquellas personas con las que nos hemos enemistado.",
+   "fecha": "2026-12-23"
+  },
+  {
+   "dia": 9,
+   "titulo": "Navidad",
+   "cita": "Primera Epístola de San Juan 4, 7-11",
+   "lectura": [
+    "Queridos, amémonos unos a otros, ya que el amor es de Dios, y todo el que ama ha nacido de Dios y conoce a Dios. Quien no ama no ha conocido a Dios, porque Dios es Amor.",
+    "En esto se manifestó el amor que Dios nos tiene; en que Dios envió al mundo a su Hijo único para que vivamos por medio de él.",
+    "En esto consiste el amor: no en que nosotros hayamos amado a Dios, sino en que él nos amó y nos envió a su Hijo como propiciación por nuestros pecados.",
+    "Queridos, si Dios nos amó de esta manera, también nosotros debemos amarnos unos a otros."
+   ],
+   "reflexion": [
+    "Este pasaje refleja el espíritu de las posadas al destacar el encuentro y la apertura entre personas que, por las normas humanas, estaban divididas. Jesús, al pedir agua a la samaritana, rompe con los prejuicios sociales y culturales de su tiempo. Este gesto nos enseña que el amor de Dios no conoce fronteras, ya sean de origen, cultura o condición. Así como María y José buscaron posada, Jesús se acerca a la mujer para buscar algo mucho más profundo: el encuentro de corazones.",
+    "Jesús utiliza el agua como símbolo del don de Dios, esa \"agua viva\" que sacia la sed más profunda de nuestro corazón. En las posadas, recordamos que Jesús vino al mundo para ofrecernos esta agua de vida, para llenarnos de su amor y gracia. Nos invita a pedirle este don, que no solo satisface nuestras necesidades espirituales, sino que nos transforma para compartirlo con los demás."
+   ],
+   "pregunta": "¿De qué manera voy a comunicar a los demás, en esta Navidad, el amor de Dios?",
+   "oracion": "Dios ha llegado. Señor, hoy ha nacido tu hijo amado para traernos vida. Concédenos la gracia de que permanezca en nuestro corazón y en nuestros hogares, donde será siempre bienvenido y albergado. Te lo pedimos por tu Hijo que vive y reina contigo por los siglos de los siglos. Amén.",
+   "peticion": "Hoy te pedimos por la unión en Jesucristo de la(s) familia(s) aquí reunida.",
+   "fecha": "2026-12-24"
+  }
+ ],
+ "peticion": {
+  "afuera": [
+   "En el nombre del cielo, os pido posada, pues no puede andar mi esposa amada.",
+   "Venimos rendidos desde Nazaret; yo soy carpintero de nombre José.",
+   "Posada te pide, amado casero, por solo una noche, la Reina del Cielo.",
+   "Mi esposa es María, es Reina del Cielo y Madre va a ser del Divino Verbo.",
+   "Dios pague Señores, su gran caridad y los colme el cielo de felicidad."
+  ],
+  "adentro": [
+   "Aquí no es mesón, sigan adelante, yo no puedo abrir, no sea algún tunante.",
+   "No me importa el nombre, déjenme dormir pues ya les he dicho que no voy a abrir.",
+   "Pues si es una reina quien lo solicita ¿cómo es que de noche anda tan solita?",
+   "¿Eres tú, José? ¿Tu esposa es María? Entren peregrinos, no los conocía.",
+   "Dichosa la casa que alberga este día a la Virgen Pura la hermosa María."
+  ],
+  "todos": "Entren Santos Peregrinos, reciban este rincón, aunque es pobre la morada, la morada, os la doy de corazón."
+ },
+ "oracionFinal": "Oremos. Infunde tu gracia en nuestros corazones, para que habiendo conocido por el anuncio del ángel la encarnación de tu Hijo, seamos llevados, por su Pasión y su muerte, a la gloria de la resurrección. Por Cristo Nuestro Señor. Amén."
+}

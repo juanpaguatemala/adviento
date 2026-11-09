@@ -1,0 +1,108 @@
+{
+ "articulos": [
+  {
+   "titulo": "¿Qué es el adviento?",
+   "url": "https://www.biencatolicos.com/2024/11/adviento-2024.html"
+  },
+  {
+   "titulo": "Sugerencias para vivir mejor este adviento",
+   "url": "https://www.biencatolicos.com/2019/12/sugerencias-para-vivir-este-adviento.html"
+  },
+  {
+   "titulo": "Propuesta para la iniciación del adviento",
+   "url": "https://www.biencatolicos.com/2024/11/propuesta-de-preparacion-para-el-inicio.html"
+  },
+  {
+   "titulo": "¿Qué es la corona de adviento?",
+   "url": "https://www.biencatolicos.com/2019/11/corona-de-adviento.html"
+  },
+  {
+   "titulo": "Ideas para vivir bien este adviento",
+   "url": "https://www.biencatolicos.com/2021/11/ideas-para-vivir-el-adviento.html"
+  },
+  {
+   "titulo": "Elabora en casa tu corona de adviento",
+   "url": "https://www.biencatolicos.com/2021/11/elabora-tu-corona-de-adviento.html"
+  },
+  {
+   "titulo": "Adviento. Tiempo de reconciliación",
+   "url": "https://www.biencatolicos.com/2023/11/adviento-tiempo-de-reconciliacion.html"
+  },
+  {
+   "titulo": "¿Cuándo poner el arbolito, nacimiento e iniciar las posadas?",
+   "url": "https://www.biencatolicos.com/2024/11/que-fecha-poner-el-arbolito-y-empezar.html"
+  },
+  {
+   "titulo": "¿Por qué el año litúrgico termina antes que el año civil?",
+   "url": "https://www.biencatolicos.com/2024/11/por-que-el-ano-liturgico-termina-antes.html"
+  },
+  {
+   "titulo": "El significado del árbol de navidad y San Bonifacio",
+   "url": "https://www.biencatolicos.com/2024/11/el-significado-del-arbol-de-navidad-y.html"
+  },
+  {
+   "titulo": "Papa Francisco: \"¿Cómo hacer para que el corazón no se apesadumbre?\"",
+   "url": "https://www.biencatolicos.com/2024/12/como-hacer-para-que-el-corazon-no-se.html"
+  },
+  {
+   "titulo": "6 de Diciembre. Día de San Nicolas de Bari y su relación con Santa Clos",
+   "url": "https://www.biencatolicos.com/2024/12/6-de-diciembre-dia-de-san-nicolas-de.html"
+  },
+  {
+   "titulo": "El pesebre y el significado de sus figuras",
+   "url": "https://www.biencatolicos.com/2024/12/el-pesebre-y-el-signficado-de-sus.html"
+  },
+  {
+   "titulo": "Preguntas y respuestas sobre el nacimiento de Jesús",
+   "url": "https://www.biencatolicos.com/2024/12/preguntas-y-respuestas-sobre-el.html"
+  }
+ ],
+ "domingos": [
+  {
+   "titulo": "Primer Domingo de Adviento",
+   "url": "https://www.biencatolicos.com/2024/11/primer-domingo-de-adviento-1-de.html",
+   "desde": "2026-11-29",
+   "hasta": "2026-12-05"
+  },
+  {
+   "titulo": "Segundo Domingo de Adviento",
+   "url": "https://www.biencatolicos.com/2024/12/segundo-domingo-de-adviento-8-de.html",
+   "desde": "2026-12-06",
+   "hasta": "2026-12-12"
+  },
+  {
+   "titulo": "Tercer Domingo de Adviento",
+   "url": "https://www.biencatolicos.com/2024/12/tercer-domingo-de-adviento-15-de.html",
+   "desde": "2026-12-13",
+   "hasta": "2026-12-19"
+  },
+  {
+   "titulo": "Tercer domingo, domingo de \"Gaudete\"",
+   "url": "https://www.biencatolicos.com/2024/12/tercer-domingo-domingo-de-gaudete.html",
+   "desde": "2026-12-13",
+   "hasta": "2026-12-19"
+  },
+  {
+   "titulo": "Cuarto Domingo de Adviento",
+   "url": "https://www.biencatolicos.com/2024/12/cuarto-domingo-de-adviento-22-de.html",
+   "desde": "2026-12-20",
+   "hasta": "2026-12-23"
+  },
+  {
+   "titulo": "Adviento: hoy es Nochebuena",
+   "url": "https://www.biencatolicos.com/2024/12/adviento-hoy-es-noche-buena.html",
+   "desde": "2026-12-24",
+   "hasta": "2026-12-24"
+  }
+ ],
+ "videos": [
+  {
+   "titulo": "¿Qué es el Adviento?",
+   "id": "usXoZqHCK6Y"
+  },
+  {
+   "titulo": "Prepara tu corazón | El Adviento con el padre Agustino Torres, CFR",
+   "id": "pxZkMF9IZwc"
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "bendicion": [
+  "Señor Dios",
+  "bendice con tu poder nuestra Corona de Adviento para que, al encenderla,",
+  "despierte en nosotros el deseo de esperar la venida de Cristo",
+  "practicando las buenas obras, y para que así,",
+  "cuando Él llegue, seamos admitidos al Reino de los Cielos.",
+  "Te lo pedimos por Cristo nuestro Señor.",
+  "Todos: Amén."
+ ],
+ "velas": [
+  {
+   "n": 1,
+   "nombre": "Esperanza",
+   "color": "morada",
+   "desde": "2026-11-29",
+   "oracion": "Señor, encendemos esta primera luz mientras esperamos tu venida. Que la esperanza no se apague en nuestro hogar, aunque la noche sea larga. Ven, Señor Jesús. Amén."
+  },
+  {
+   "n": 2,
+   "nombre": "Paz",
+   "color": "morada",
+   "desde": "2026-12-06",
+   "oracion": "Señor, con esta segunda luz te pedimos paz: en nuestro corazón, en nuestra casa y en Guatemala. Haznos constructores de paz. Ven, Señor Jesús. Amén."
+  },
+  {
+   "n": 3,
+   "nombre": "Alegría",
+   "color": "rosa",
+   "desde": "2026-12-13",
+   "oracion": "Señor, esta luz rosa nos recuerda que estás cerca. Llena nuestra casa de una alegría que no dependa de que todo salga bien, sino de saber que vienes. Ven, Señor Jesús. Amén."
+  },
+  {
+   "n": 4,
+   "nombre": "Amor",
+   "color": "morada",
+   "desde": "2026-12-20",
+   "oracion": "Señor, ya todas las luces brillan. Que el amor sea el pesebre donde te recibamos esta Navidad. Ven, Señor Jesús. Amén."
+  },
+  {
+   "n": 5,
+   "nombre": "Cristo, luz del mundo",
+   "color": "blanca",
+   "desde": "2026-12-24",
+   "oracion": "Niño Jesús, luz del mundo, esta noche naces entre nosotros. Que tu luz ilumine nuestro hogar y a quienes amamos. Amén."
+  }
+ ],
+ "pesebre": "Niño Jesús, te miro pequeño y en silencio, y entiendo que no viniste a imponerte sino a ser recibido. Aquí está mi casa, sencilla como Belén, con sus alegrías y sus pendientes. María, enséñame a guardarte en el corazón; San José, enséñame a cuidarte con fidelidad. Que nunca falte lugar para Ti entre nosotros. Amén.",
+ "nochebuena": [
+  "Antes de la cena, la familia se reúne ante el nacimiento, con el pesebre todavía vacío.",
+  "Se lee Lucas 2,1-14.",
+  "El miembro más pequeño o más anciano coloca al Niño Jesús en el pesebre.",
+  "Se enciende la vela blanca y se canta un villancico.",
+  "Bendición de la mesa."
+ ],
+ "bendicionMesa": "Bendice, Señor, estos alimentos y a quienes los preparamos. Acuérdate de quienes esta noche no tienen pan ni compañía. Que el Niño que hoy nace sea el invitado principal de esta mesa. Amén.",
+ "novena": "En Guatemala, la novena de Navidad se vive en las Posadas, del 16 al 24 de diciembre: nueve noches acompañando a María y José en su camino a Belén.",
+ "rosario": {
+  "titulo": "Rosario de Adviento",
+  "url": "https://www.biencatolicos.com/2021/11/rosario-de-adviento.html"
+ }
+}

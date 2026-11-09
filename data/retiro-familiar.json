@@ -1,0 +1,862 @@
+{
+ "etapas": [
+  {
+   "n": 1,
+   "nombre": "Abrimos las puertas de nuestro hogar",
+   "lema": "29 de noviembre al 3 de diciembre · Esperanza, encuentro y pertenencia"
+  },
+  {
+   "n": 2,
+   "nombre": "Construimos la paz en nuestro hogar",
+   "lema": "4 al 8 de diciembre · Comunicación, comprensión y reconciliación"
+  },
+  {
+   "n": 3,
+   "nombre": "Aprendemos a amar y servir",
+   "lema": "9 al 13 de diciembre · Solidaridad, ternura y alegría compartida"
+  },
+  {
+   "n": 4,
+   "nombre": "Fortalecemos los lazos familiares",
+   "lema": "14 al 18 de diciembre · Confianza, gratitud, tiempo y cuidado mutuo"
+  },
+  {
+   "n": 5,
+   "nombre": "Nuestro hogar se convierte en Belén",
+   "lema": "19 al 23 de diciembre · Preparación espiritual para la Navidad"
+  }
+ ],
+ "dias": [
+  {
+   "dia": 1,
+   "fecha": "2026-11-29",
+   "diaSemana": "Domingo",
+   "etapa": 1,
+   "dinamica": "La puerta de nuestro Belén",
+   "celebracion": null,
+   "objetivo": "Comenzar el Adviento reconociendo que Jesús desea habitar en nuestra familia.",
+   "cita": "Mateo 24,37-44",
+   "meditacion": [
+    "Hoy comienza un camino especial. Durante los próximos días prepararemos nuestro hogar para celebrar el nacimiento de Jesús. No necesitamos tener una familia perfecta para recibirlo. Como todas las familias, tenemos momentos de alegría, diferencias, dificultades y preocupaciones. Lo importante es aprender a caminar juntos, escucharnos y recordar que Dios está presente en nuestra historia. Cada pequeño gesto de amor puede abrirle una puerta a Jesús."
+   ],
+   "pasos": [
+    "Reunirse alrededor de la corona de Adviento o de una imagen de Jesús.",
+    "Dibujar una puerta grande sobre una hoja.",
+    "Cada integrante escribe o dibuja una palabra que desee encontrar en el hogar: paz, respeto, cariño, alegría o comprensión.",
+    "Colocar la puerta cerca del nacimiento o en un lugar visible.",
+    "Encender la primera vela de Adviento con supervisión adulta y rezar juntos."
+   ],
+   "nota": null,
+   "preguntas": "¿Qué hace que nuestra casa se sienta como un hogar? ¿Qué podemos hacer para que todos se sientan queridos?",
+   "oracion": [
+    "Señor Jesús, hoy abrimos las puertas de nuestra familia para recibirte. Ayudanos a construir un hogar donde haya respeto, alegría y amor. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Preparar juntos un pequeño espacio de oración para el Adviento.",
+   "control": {
+    "tipo": "puerta"
+   }
+  },
+  {
+   "dia": 2,
+   "fecha": "2026-11-30",
+   "diaSemana": "Lunes",
+   "etapa": 1,
+   "dinamica": "La telaraña del amor",
+   "celebracion": null,
+   "objetivo": "Reconocer que cada integrante es importante y que las acciones de uno influyen en los demás.",
+   "cita": "Romanos 12,4-10",
+   "meditacion": [
+    "Una familia se parece a una red formada por muchos hilos. Cada persona aporta algo único: su alegría, sus talentos, sus experiencias y su manera de amar. Cuando alguien necesita apoyo, los demás pueden acompañarlo. Nadie debe sentirse menos importante por ser pequeño, mayor o diferente. Jesús nos invita a tratarnos con cariño y respeto, reconociendo el valor de cada integrante."
+   ],
+   "pasos": [
+    "Sentarse formando un círculo.",
+    "Tomar un ovillo de lana o hilo.",
+    "La primera persona sostiene un extremo, dice algo positivo de otro integrante y le pasa el ovillo.",
+    "Repetir hasta formar una red entre todos.",
+    "Observar cómo cada persona sostiene una parte.",
+    "Terminar diciendo juntos: «Todos somos importantes en esta familia»."
+   ],
+   "nota": null,
+   "preguntas": "¿Qué aporta cada persona a nuestro hogar? ¿Cómo podemos apoyarnos mejor?",
+   "oracion": [
+    "Padre bueno, gracias por cada integrante de nuestra familia. Enseñanos a valorarnos y ayudarnos mutuamente. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Decirle a cada integrante algo que admiramos o agradecemos de él.",
+   "control": {
+    "tipo": "circulos"
+   }
+  },
+  {
+   "dia": 3,
+   "fecha": "2026-12-01",
+   "diaSemana": "Martes",
+   "etapa": 1,
+   "dinamica": "El frasco de las bendiciones",
+   "celebracion": null,
+   "objetivo": "Cultivar la gratitud familiar.",
+   "cita": "1 Tesalonicenses 5,16-18",
+   "meditacion": [
+    "A veces prestamos tanta atención a los problemas que olvidamos las cosas buenas que vivimos juntos. Una comida compartida, una conversación, una sonrisa o la ayuda de alguien pueden convertirse en motivos para agradecer. Dios nos invita a reconocer sus bendiciones, incluso cuando atravesamos dificultades. La gratitud nos ayuda a valorar lo que tenemos y a cuidar mejor nuestras relaciones."
+   ],
+   "pasos": [
+    "Conseguir un frasco o una caja.",
+    "Entregar pequeños papeles a cada integrante.",
+    "Escribir o dibujar tres motivos de agradecimiento familiar.",
+    "Doblar los papeles y colocarlos en el frasco.",
+    "Sacar algunos al azar y leerlos en voz alta.",
+    "Guardar el frasco para agregar nuevos agradecimientos durante el Adviento."
+   ],
+   "nota": null,
+   "preguntas": "¿Qué fue lo más bonito que vivimos juntos este año? ¿Qué cosas pequeñas nos hacen felices?",
+   "oracion": [
+    "Señor, gracias por nuestro hogar, por los momentos compartidos y por las bendiciones que recibimos cada día. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Agradecer en voz alta al menos una cosa antes de dormir.",
+   "control": {
+    "tipo": "lista",
+    "n": 3
+   }
+  },
+  {
+   "dia": 4,
+   "fecha": "2026-12-02",
+   "diaSemana": "Miércoles",
+   "etapa": 1,
+   "dinamica": "La mesa donde todos tienen voz",
+   "celebracion": null,
+   "objetivo": "Fortalecer la escucha y la comunicación respetuosa.",
+   "cita": "Santiago 1,19",
+   "meditacion": [
+    "Escuchar es una forma de amar. En ocasiones estamos tan ocupados que no prestamos verdadera atención a lo que los demás desean compartir. Otras veces interrumpimos, corregimos o respondemos antes de comprender. Jesús nos invita a reconocer la dignidad de cada persona. En nuestra familia, todos merecen ser escuchados, incluidos los niños y quienes piensan de manera diferente."
+   ],
+   "pasos": [
+    "Reunirse alrededor de una mesa.",
+    "Elegir un objeto pequeño que represente el turno de hablar.",
+    "Cada persona comparte algo bueno y algo difícil de su día.",
+    "Mientras alguien tenga el objeto, los demás escuchan sin interrumpir.",
+    "Al finalizar, cada integrante puede agradecer algo que escuchó.",
+    "Cerrar con un abrazo, una sonrisa o un gesto respetuoso elegido por cada persona."
+   ],
+   "nota": null,
+   "preguntas": "¿Nos sentimos escuchados en casa? ¿Qué podemos mejorar cuando alguien necesita hablar?",
+   "oracion": [
+    "Jesús, enseñanos a escuchar con paciencia y a hablar con respeto. Que nadie en nuestra familia sienta que su voz no importa. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Dedicar diez minutos a conversar sin teléfonos ni televisión.",
+   "control": {
+    "tipo": "lista",
+    "n": 3
+   }
+  },
+  {
+   "dia": 5,
+   "fecha": "2026-12-03",
+   "diaSemana": "Jueves",
+   "etapa": 1,
+   "dinamica": "El escudo de nuestra familia",
+   "celebracion": null,
+   "objetivo": "Identificar los valores que deseamos vivir en el hogar.",
+   "cita": "Colosenses 3,12-15",
+   "meditacion": [
+    "Los valores son como cimientos que sostienen una casa. El respeto, la honestidad, la paciencia, la solidaridad y el perdón nos ayudan a construir relaciones más sanas. No basta con decir que estos valores son importantes; necesitamos practicarlos en nuestras decisiones y conversaciones. Durante este Adviento podemos elegir qué clase de hogar queremos construir."
+   ],
+   "pasos": [
+    "Dibujar un escudo grande y dividirlo en cuatro partes.",
+    "Elegir juntos cuatro valores familiares.",
+    "Representar cada valor con una palabra, dibujo o símbolo.",
+    "Pedir a cada integrante que explique cuál considera más importante.",
+    "Escribir debajo del escudo: «Con Jesús construimos nuestro hogar».",
+    "Colocarlo en un lugar visible."
+   ],
+   "nota": null,
+   "preguntas": "¿Qué valor practicamos mejor? ¿Cuál necesitamos fortalecer?",
+   "oracion": [
+    "Señor Jesús, ayudanos a construir nuestra familia sobre el amor, la verdad y el respeto. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Elegir un valor y practicarlo conscientemente durante todo el día.",
+   "control": {
+    "tipo": "lista",
+    "n": 4,
+    "etiqueta": "Valor"
+   }
+  },
+  {
+   "dia": 6,
+   "fecha": "2026-12-04",
+   "diaSemana": "Viernes",
+   "etapa": 2,
+   "dinamica": "El semáforo de nuestras palabras",
+   "celebracion": null,
+   "objetivo": "Aprender a expresar emociones y resolver desacuerdos sin lastimar.",
+   "cita": "Efesios 4,29-32",
+   "meditacion": [
+    "Las palabras tienen un poder enorme. Pueden animar, consolar y construir confianza, pero también pueden herir. En todas las familias existen desacuerdos. Lo importante no es pensar siempre igual, sino aprender a conversar con respeto. Jesús nos invita a utilizar nuestras palabras para hacer el bien y a reconocer cuando necesitamos corregir nuestra manera de hablar."
+   ],
+   "pasos": [
+    "Dibujar un semáforo con tres colores.",
+    "En el rojo, escribir frases que debemos evitar: insultos, amenazas, burlas y humillaciones.",
+    "En el amarillo, escribir acciones que nos ayudan a detenernos: respirar, escuchar, pedir una pausa.",
+    "En el verde, colocar expresiones positivas: «Te escucho», «No estoy de acuerdo, pero te respeto», «Podemos hablar con calma».",
+    "Cada integrante propone una frase que desea comenzar a utilizar.",
+    "Colocar el semáforo en un lugar visible."
+   ],
+   "nota": null,
+   "preguntas": "¿Qué palabras nos hacen sentir queridos? ¿Qué podemos decir cuando estamos molestos?",
+   "oracion": [
+    "Señor Jesús, ayudanos a utilizar nuestras palabras para construir paz y comprensión. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Evitar gritos, insultos y burlas, utilizando las frases del semáforo cuando surja un desacuerdo.",
+   "control": {
+    "tipo": "semaforo"
+   }
+  },
+  {
+   "dia": 7,
+   "fecha": "2026-12-05",
+   "diaSemana": "Sábado",
+   "etapa": 2,
+   "dinamica": "Los zapatos del otro",
+   "celebracion": null,
+   "objetivo": "Desarrollar empatía y comprensión entre los integrantes de la familia.",
+   "cita": "Romanos 12,15-16",
+   "meditacion": [
+    "Cada persona vive situaciones que los demás no siempre conocen. A veces juzgamos una reacción sin comprender el cansancio, las preocupaciones o los sentimientos que existen detrás. La empatía consiste en intentar comprender la experiencia del otro sin abandonar nuestra propia perspectiva. Jesús nos enseña a mirar con compasión."
+   ],
+   "pasos": [
+    "Colocar varios pares de zapatos en el centro.",
+    "Cada participante elige simbólicamente un par que no sea suyo.",
+    "Imaginar cómo podría haber sido el día de la persona que los utiliza.",
+    "Compartir una dificultad que esa persona podría enfrentar, sin hacer afirmaciones sobre sus sentimientos.",
+    "Preguntar respetuosamente: «¿Hay algo en lo que pueda ayudarte?».",
+    "Finalizar agradeciendo el esfuerzo de los demás."
+   ],
+   "nota": null,
+   "preguntas": "¿Qué responsabilidades de otros integrantes no siempre reconocemos? ¿Cómo podemos comprendernos mejor?",
+   "oracion": [
+    "Jesús, danos un corazón sensible para comprender las necesidades de quienes viven con nosotros. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Ayudar a otro integrante con una tarea cotidiana.",
+   "control": {
+    "tipo": "lista",
+    "n": 3
+   }
+  },
+  {
+   "dia": 8,
+   "fecha": "2026-12-06",
+   "diaSemana": "Domingo",
+   "etapa": 2,
+   "dinamica": "El camino de la reconciliación",
+   "celebracion": null,
+   "objetivo": "Comprender la importancia de reconocer errores, reparar daños y construir relaciones respetuosas.",
+   "cita": "Mateo 3,1-12",
+   "meditacion": [
+    "Juan el Bautista nos invita a preparar el camino del Señor. En nuestra familia, ese camino se prepara también cuando aprendemos a reconocer nuestros errores y corregir aquello que perjudica la convivencia. Pedir perdón es importante, pero debe ir acompañado de acciones. La reconciliación auténtica necesita respeto, cambios concretos y tiempo."
+   ],
+   "pasos": [
+    "Dibujar un camino que conduce hacia un pesebre.",
+    "Colocar cinco estaciones: reconocer, escuchar, responsabilizarse, reparar y cambiar.",
+    "Conversar sobre un ejemplo cotidiano, como romper accidentalmente un objeto o hablar de manera descortés.",
+    "Identificar qué acción correspondería a cada estación.",
+    "Cada persona elige voluntariamente una actitud que desea mejorar.",
+    "Encender la segunda vela de Adviento y orar por la paz familiar."
+   ],
+   "nota": null,
+   "preguntas": "¿Cómo demostramos que estamos arrepentidos? ¿Qué podemos hacer para reparar nuestros errores?",
+   "oracion": [
+    "Señor, enseñanos a reconocer nuestras faltas, reparar el daño y construir un hogar donde todos se sientan seguros. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Corregir una conducta que dificulte la convivencia.",
+   "control": {
+    "tipo": "camino"
+   }
+  },
+  {
+   "dia": 9,
+   "fecha": "2026-12-07",
+   "diaSemana": "Lunes",
+   "etapa": 2,
+   "dinamica": "La caja de las soluciones",
+   "celebracion": null,
+   "objetivo": "Aprender a enfrentar los problemas cotidianos mediante el diálogo y la colaboración.",
+   "cita": "Proverbios 15,22",
+   "meditacion": [
+    "Los problemas forman parte de la vida familiar. A veces surgen por la distribución de tareas, los horarios, el cansancio o las diferentes necesidades de cada integrante. Cuando buscamos culpables en lugar de soluciones, las dificultades pueden aumentar. Jesús nos invita a actuar con paciencia, justicia y comprensión."
+   ],
+   "pasos": [
+    "Preparar una caja con el nombre «Juntos encontramos soluciones».",
+    "Cada persona escribe una dificultad cotidiana que considere importante resolver.",
+    "Elegir una situación sencilla y apropiada para conversar en familia.",
+    "Permitir que todos propongan soluciones sin burlas ni interrupciones.",
+    "Elegir una alternativa que respete las necesidades de los participantes.",
+    "Establecer una fecha para revisar si funcionó."
+   ],
+   "nota": null,
+   "preguntas": "¿Cómo podemos colaborar mejor? ¿Qué podemos hacer cuando una solución no funciona?",
+   "oracion": [
+    "Señor, danos sabiduría para resolver nuestras dificultades con paciencia, justicia y respeto. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Resolver juntos una pequeña dificultad del hogar.",
+   "control": {
+    "tipo": "lista",
+    "n": 3
+   }
+  },
+  {
+   "dia": 10,
+   "fecha": "2026-12-08",
+   "diaSemana": "Martes",
+   "etapa": 2,
+   "dinamica": "El sí de nuestra familia",
+   "celebracion": "Solemnidad de la Inmaculada Concepción",
+   "objetivo": "Inspirarse en la confianza y disponibilidad de María para fortalecer la vida familiar.",
+   "cita": "Lucas 1,26-38",
+   "meditacion": [
+    "María respondió con confianza al llamado de Dios. Su ejemplo nos enseña a escuchar, discernir y actuar con generosidad. Cada familia puede responder al amor de Dios mediante pequeñas decisiones cotidianas. Cuando elegimos ayudarnos, decir la verdad y cuidar a quienes más lo necesitan, estamos haciendo espacio para Jesús."
+   ],
+   "pasos": [
+    "Colocar una imagen de la Virgen María en el centro.",
+    "Leer o escuchar el relato de la Anunciación.",
+    "Entregar a cada integrante una tarjeta con la frase «Yo digo sí a...».",
+    "Completarla con una acción positiva: ayudar, escuchar, compartir o respetar.",
+    "Colocar las tarjetas alrededor de la imagen.",
+    "Rezar juntos un avemaría."
+   ],
+   "nota": null,
+   "preguntas": "¿Qué podemos aprender de María? ¿A qué buena acción queremos decir sí durante este Adviento?",
+   "oracion": [
+    "Virgen María, enseñanos a confiar en Dios y a responder con amor a las necesidades de nuestra familia. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Realizar juntos una buena acción inspirada en el ejemplo de María.",
+   "control": {
+    "tipo": "lista",
+    "n": 3
+   }
+  },
+  {
+   "dia": 11,
+   "fecha": "2026-12-09",
+   "diaSemana": "Miércoles",
+   "etapa": 3,
+   "dinamica": "Las manos que ayudan",
+   "celebracion": null,
+   "objetivo": "Reconocer el valor del servicio y la colaboración en el hogar.",
+   "cita": "Marcos 10,42-45",
+   "meditacion": [
+    "Jesús nos enseña que la verdadera grandeza se encuentra en el servicio. En casa existen muchas tareas que permiten que todos vivamos mejor. Cocinar, limpiar, ordenar, acompañar y cuidar son expresiones de responsabilidad y amor. Cuando colaboramos de acuerdo con nuestra edad y posibilidades, demostramos que el bienestar familiar es una tarea compartida."
+   ],
+   "pasos": [
+    "Cada integrante dibuja el contorno de una de sus manos.",
+    "En cada dedo escribe una forma de ayudar en casa.",
+    "Los niños pequeños pueden dibujar sus propuestas.",
+    "Compartir las acciones elegidas.",
+    "Elaborar una lista de tareas familiares apropiadas para cada edad.",
+    "Colocar las manos dibujadas alrededor de un corazón con la frase «Servimos con amor»."
+   ],
+   "nota": null,
+   "preguntas": "¿Quiénes realizan las tareas que a veces no vemos? ¿Cómo podemos colaborar de manera más justa?",
+   "oracion": [
+    "Jesús, enseñanos a servir con alegría y a reconocer el esfuerzo de quienes nos cuidan. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Cada integrante realizará una tarea de servicio sin esperar una recompensa.",
+   "control": {
+    "tipo": "lista",
+    "n": 3
+   }
+  },
+  {
+   "dia": 12,
+   "fecha": "2026-12-10",
+   "diaSemana": "Jueves",
+   "etapa": 3,
+   "dinamica": "La canasta de la generosidad",
+   "celebracion": null,
+   "objetivo": "Descubrir la alegría de compartir con quienes tienen menos recursos.",
+   "cita": "Mateo 25,35-40",
+   "meditacion": [
+    "Jesús nos recuerda que el amor hacia Él se expresa también en el cuidado de las personas necesitadas. La generosidad no depende de cuánto dinero tenemos, sino de nuestra disposición para compartir. Una familia puede convertirse en una pequeña comunidad solidaria cuando aprende a reconocer las necesidades de los demás."
+   ],
+   "pasos": [
+    "Conseguir una canasta, caja o bolsa.",
+    "Conversar sobre necesidades que existen en la comunidad.",
+    "Cada integrante propone algo que podría compartir.",
+    "Reunir alimentos no perecederos, ropa limpia o artículos útiles, según las posibilidades.",
+    "Elegir una persona, familia u organización que pueda recibirlos.",
+    "Preparar juntos la entrega, respetando la dignidad de quienes recibirán la ayuda."
+   ],
+   "nota": null,
+   "preguntas": "¿Qué significa compartir? ¿Cómo podemos ayudar sin hacer sentir menos a otras personas?",
+   "oracion": [
+    "Señor Jesús, danos un corazón generoso y sensible ante las necesidades de nuestros hermanos. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Preparar una pequeña donación solidaria.",
+   "control": {
+    "tipo": "lista",
+    "n": 3
+   }
+  },
+  {
+   "dia": 13,
+   "fecha": "2026-12-11",
+   "diaSemana": "Viernes",
+   "etapa": 3,
+   "dinamica": "El buzón de las palabras bonitas",
+   "celebracion": null,
+   "objetivo": "Fortalecer las expresiones de cariño, reconocimiento y gratitud.",
+   "cita": "Proverbios 16,24",
+   "meditacion": [
+    "En ocasiones damos por sentado que nuestros familiares saben cuánto los queremos. Sin embargo, todos necesitamos escuchar palabras de cariño y reconocimiento. Una frase sincera puede alegrar el día de alguien y recordarle que es importante. Jesús nos invita a utilizar nuestras palabras para transmitir vida y esperanza."
+   ],
+   "pasos": [
+    "Decorar una caja como buzón familiar.",
+    "Escribir el nombre de cada integrante en un papel.",
+    "Preparar mensajes de cariño, gratitud o reconocimiento.",
+    "Introducirlos en el buzón.",
+    "Repartir los mensajes a sus destinatarios.",
+    "Cada persona decide si desea leerlos en voz alta o conservarlos en privado."
+   ],
+   "nota": null,
+   "preguntas": "¿Qué palabras nos hacen sentir valorados? ¿Por qué es importante expresar el cariño?",
+   "oracion": [
+    "Señor, que nuestras palabras sean instrumentos de ternura, respeto y alegría. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Decirle a cada integrante algo positivo y sincero.",
+   "control": {
+    "tipo": "lista",
+    "n": 3
+   }
+  },
+  {
+   "dia": 14,
+   "fecha": "2026-12-12",
+   "diaSemana": "Sábado",
+   "etapa": 3,
+   "dinamica": "Bajo el manto de María",
+   "celebracion": "Nuestra Señora de Guadalupe",
+   "objetivo": "Fortalecer la oración familiar y la confianza en la intercesión de la Virgen María.",
+   "cita": "Juan 19,25-27",
+   "meditacion": [
+    "María es madre de Jesús y madre espiritual de los discípulos. En la devoción a Nuestra Señora de Guadalupe reconocemos su cercanía y ternura. Como madre, nos invita a acercarnos a su Hijo con confianza. Hoy podemos poner bajo su intercesión las necesidades de nuestro hogar y recordar especialmente a quienes atraviesan momentos difíciles."
+   ],
+   "pasos": [
+    "Colocar una imagen de Nuestra Señora de Guadalupe.",
+    "Dibujar un manto grande en una hoja.",
+    "Cada integrante escribe su nombre o lo representa con un dibujo debajo del manto.",
+    "Agregar nombres de familiares, amigos o personas que necesiten oración.",
+    "Compartir voluntariamente una intención.",
+    "Rezar juntos un avemaría por todas las intenciones."
+   ],
+   "nota": null,
+   "preguntas": "¿Por quién necesitamos orar? ¿Cómo podemos acompañar a alguien que está sufriendo?",
+   "oracion": [
+    "Virgen de Guadalupe, cubrí con tu ternura a nuestra familia y conducinos siempre hacia Jesús. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Orar por una persona enferma, sola o necesitada y ofrecerle un gesto concreto de apoyo.",
+   "control": {
+    "tipo": "lista",
+    "n": 3
+   }
+  },
+  {
+   "dia": 15,
+   "fecha": "2026-12-13",
+   "diaSemana": "Domingo",
+   "etapa": 3,
+   "dinamica": "La fiesta de las pequeñas alegrías",
+   "celebracion": "Tercer domingo de Adviento · Gaudete",
+   "objetivo": "Reconocer que la alegría cristiana se encuentra también en las experiencias sencillas.",
+   "cita": "Filipenses 4,4-7",
+   "meditacion": [
+    "Hoy celebramos el domingo de la alegría. La Navidad se acerca y la Iglesia nos invita a alegrarnos en el Señor. La alegría cristiana no exige que todo sea perfecto. Podemos experimentar gratitud y esperanza incluso cuando enfrentamos dificultades. Muchas veces los recuerdos más felices de una familia nacen de momentos sencillos compartidos con amor."
+   ],
+   "pasos": [
+    "Encender la vela rosada de Adviento con supervisión adulta.",
+    "Cada integrante recuerda un momento alegre vivido en familia.",
+    "Escribir o dibujar esos recuerdos en pequeñas estrellas.",
+    "Colocar las estrellas alrededor de la corona o del nacimiento.",
+    "Elegir juntos una actividad gratuita o sencilla que todos disfruten.",
+    "Compartir ese momento sin teléfonos ni distracciones."
+   ],
+   "nota": null,
+   "preguntas": "¿Qué nos hace felices cuando estamos juntos? ¿Cómo podemos llevar alegría a alguien más?",
+   "oracion": [
+    "Señor Jesús, gracias por las alegrías sencillas. Ayudanos a compartir tu esperanza con quienes nos rodean. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Organizar un momento especial de convivencia sin necesidad de gastar dinero.",
+   "control": {
+    "tipo": "lista",
+    "n": 3
+   }
+  },
+  {
+   "dia": 16,
+   "fecha": "2026-12-14",
+   "diaSemana": "Lunes",
+   "etapa": 4,
+   "dinamica": "El árbol de nuestros recuerdos",
+   "celebracion": null,
+   "objetivo": "Valorar la historia familiar y los momentos que han fortalecido nuestros vínculos.",
+   "cita": "Salmo 78,4-7",
+   "meditacion": [
+    "Cada familia tiene una historia formada por recuerdos, tradiciones, dificultades y alegrías. Algunas personas estuvieron presentes desde el principio; otras se incorporaron con el tiempo. También recordamos a seres queridos que ya no están físicamente con nosotros. Nuestra historia merece ser valorada porque nos ayuda a comprender de dónde venimos y qué deseamos transmitir a las nuevas generaciones."
+   ],
+   "pasos": [
+    "Dibujar un árbol grande.",
+    "En las raíces, escribir nombres de personas que han sido importantes en la historia familiar.",
+    "En el tronco, anotar valores y enseñanzas recibidas.",
+    "En las ramas, colocar recuerdos felices.",
+    "En las hojas, escribir tradiciones que desean conservar o comenzar.",
+    "Compartir voluntariamente una anécdota familiar."
+   ],
+   "nota": null,
+   "preguntas": "¿Qué recuerdos nos unen? ¿Qué enseñanza de nuestros mayores queremos conservar?",
+   "oracion": [
+    "Señor, gracias por nuestra historia familiar y por las personas que nos han transmitido amor, valores y fe. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Conversar con una persona mayor de la familia y escuchar uno de sus recuerdos.",
+   "control": {
+    "tipo": "arbol"
+   }
+  },
+  {
+   "dia": 17,
+   "fecha": "2026-12-15",
+   "diaSemana": "Martes",
+   "etapa": 4,
+   "dinamica": "El puente de la confianza",
+   "celebracion": null,
+   "objetivo": "Identificar acciones que fortalecen la seguridad, la honestidad y la confianza en el hogar.",
+   "cita": "Colosenses 3,9-14",
+   "meditacion": [
+    "La confianza es como un puente que nos permite acercarnos unos a otros. Se construye con pequeñas acciones: cumplir nuestras promesas, decir la verdad, respetar la privacidad y escuchar sin humillar. Cuando la confianza se debilita, necesita tiempo y hechos concretos para reconstruirse. Jesús nos invita a vivir relaciones basadas en la verdad y el amor."
+   ],
+   "pasos": [
+    "Dibujar dos orillas separadas por un río.",
+    "Escribir en una orilla «Yo» y en la otra «Mi familia».",
+    "Dibujar cinco tablas que formen un puente.",
+    "En cada tabla, escribir una acción que construya confianza.",
+    "Conversar sobre cómo cumplir esos compromisos en la vida cotidiana.",
+    "Colocar el dibujo en un lugar visible."
+   ],
+   "nota": null,
+   "preguntas": "¿Qué acciones nos hacen sentir seguros? ¿Cómo demostramos que somos personas confiables?",
+   "oracion": [
+    "Jesús, enseñanos a construir relaciones sinceras y respetuosas. Que nuestro hogar sea un lugar de confianza. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Cumplir una promesa pequeña y concreta realizada a otro integrante.",
+   "control": {
+    "tipo": "puente"
+   }
+  },
+  {
+   "dia": 18,
+   "fecha": "2026-12-16",
+   "diaSemana": "Miércoles",
+   "etapa": 4,
+   "dinamica": "Una hora para nosotros",
+   "celebracion": null,
+   "objetivo": "Recuperar el valor de la presencia y el tiempo de calidad.",
+   "cita": "Eclesiastés 3,1-8",
+   "meditacion": [
+    "La vida cotidiana puede llenarse de trabajo, estudios, obligaciones y pantallas. Sin darnos cuenta, podemos pasar mucho tiempo bajo el mismo techo sin compartir verdaderamente. Estar presentes significa prestar atención, escuchar y disfrutar la compañía de los demás. El tiempo es uno de los regalos más valiosos que podemos ofrecer."
+   ],
+   "pasos": [
+    "Colocar los teléfonos en un lugar apartado durante la actividad.",
+    "Preparar tarjetas con actividades: conversar, jugar, cocinar, cantar, contar historias o leer.",
+    "Cada integrante propone una actividad.",
+    "Elegir una o combinar varias.",
+    "Compartir entre treinta y sesenta minutos, según las posibilidades.",
+    "Al terminar, cada persona expresa qué disfrutó más."
+   ],
+   "nota": null,
+   "preguntas": "¿Cuándo nos sentimos más unidos? ¿Qué actividad quisiéramos repetir con mayor frecuencia?",
+   "oracion": [
+    "Señor, ayudanos a valorar el tiempo compartido y a reconocer que nuestra presencia puede ser un regalo para los demás. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Compartir un momento sin pantallas ni distracciones.",
+   "control": {
+    "tipo": "lista",
+    "n": 3
+   }
+  },
+  {
+   "dia": 19,
+   "fecha": "2026-12-17",
+   "diaSemana": "Jueves",
+   "etapa": 4,
+   "dinamica": "La mochila de las responsabilidades",
+   "celebracion": null,
+   "objetivo": "Reconocer las cargas cotidianas y promover una distribución justa de tareas.",
+   "cita": "Gálatas 6,2",
+   "meditacion": [
+    "Cada integrante de una familia tiene responsabilidades diferentes. Algunas son visibles, mientras otras pasan desapercibidas. Hay quienes trabajan fuera de casa, estudian, cuidan a otros o se encargan de mantener el hogar funcionando. Jesús nos invita a compartir las cargas y a reconocer el esfuerzo de los demás. Una familia crece cuando sus integrantes colaboran sin aprovecharse unos de otros."
+   ],
+   "pasos": [
+    "Colocar una mochila vacía en el centro.",
+    "Preparar tarjetas con tareas y responsabilidades cotidianas.",
+    "Introducir las tarjetas en la mochila.",
+    "Sacarlas una por una y conversar sobre quién suele realizar cada tarea.",
+    "Identificar actividades que podrían distribuirse de manera más equilibrada.",
+    "Elaborar un pequeño acuerdo familiar de colaboración según la edad y las capacidades de cada persona."
+   ],
+   "nota": null,
+   "preguntas": "¿Quién necesita más ayuda? ¿Qué podemos hacer para que nadie se sienta sobrecargado?",
+   "oracion": [
+    "Señor Jesús, enseñanos a compartir nuestras responsabilidades y a cuidar con generosidad a quienes viven con nosotros. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Ayudar a un integrante con una responsabilidad que normalmente realiza solo.",
+   "control": {
+    "tipo": "lista",
+    "n": 3
+   }
+  },
+  {
+   "dia": 20,
+   "fecha": "2026-12-18",
+   "diaSemana": "Viernes",
+   "etapa": 4,
+   "dinamica": "Nuestro círculo de protección",
+   "celebracion": null,
+   "objetivo": "Fortalecer el sentido de seguridad, pertenencia y cuidado mutuo.",
+   "cita": "Salmo 91,1-4",
+   "meditacion": [
+    "El hogar debería ser un lugar donde cada persona encuentre respeto, protección y confianza. Todos necesitamos sentir que podemos expresar nuestras emociones sin temor a burlas, amenazas o humillaciones. El amor familiar se manifiesta cuando cuidamos la dignidad de los demás y reconocemos sus necesidades. Jesús nos enseña a proteger especialmente a los más vulnerables."
+   ],
+   "pasos": [
+    "Dibujar un círculo grande.",
+    "Escribir en el centro: «En nuestra familia queremos sentirnos...».",
+    "Cada integrante propone palabras como seguros, escuchados, respetados y queridos.",
+    "Alrededor del círculo, escribir acciones que ayudan a construir ese ambiente.",
+    "Conversar sobre qué hacer cuando alguien necesita tranquilidad, ayuda o espacio personal.",
+    "Elegir tres acuerdos de convivencia que todos puedan comprender y respetar."
+   ],
+   "nota": null,
+   "preguntas": "¿Qué nos ayuda a sentirnos seguros en casa? ¿A quién podemos acudir cuando algo nos preocupa?",
+   "oracion": [
+    "Padre amoroso, protegé a nuestra familia y enseñanos a construir un hogar donde cada persona sea tratada con dignidad y ternura. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Practicar uno de los acuerdos de convivencia elegidos.",
+   "control": {
+    "tipo": "circulos"
+   }
+  },
+  {
+   "dia": 21,
+   "fecha": "2026-12-19",
+   "diaSemana": "Sábado",
+   "etapa": 5,
+   "dinamica": "Los regalos invisibles",
+   "celebracion": null,
+   "objetivo": "Comprender que el amor no depende de los regalos materiales.",
+   "cita": "1 Corintios 13,4-7",
+   "meditacion": [
+    "Durante la Navidad solemos pensar en los regalos que queremos recibir o entregar. Sin embargo, algunos de los regalos más importantes no se pueden comprar. La paciencia, el cariño, el respeto, la compañía y la comprensión son expresiones de amor que permanecen en nuestra memoria. Jesús nos invita a descubrir el valor de esos regalos invisibles."
+   ],
+   "pasos": [
+    "Preparar una caja decorada como regalo navideño.",
+    "Cada integrante escribe en pequeños papeles regalos que no cuestan dinero.",
+    "Introducirlos en la caja.",
+    "Sacar los papeles y leerlos en voz alta.",
+    "Cada persona elige un regalo espiritual que desea ofrecer a otro integrante.",
+    "Escribir los compromisos en tarjetas y colocarlas cerca del nacimiento."
+   ],
+   "nota": null,
+   "preguntas": "¿Qué regalo que no cuesta dinero nos gustaría recibir? ¿Cómo podemos demostrar amor sin comprar cosas?",
+   "oracion": [
+    "Señor Jesús, enseñanos a reconocer que el amor verdadero se expresa mediante acciones sinceras y generosas. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Ofrecer a alguien un regalo invisible: tiempo, ayuda, cariño o comprensión.",
+   "control": {
+    "tipo": "lista",
+    "n": 3
+   }
+  },
+  {
+   "dia": 22,
+   "fecha": "2026-12-20",
+   "diaSemana": "Domingo",
+   "etapa": 5,
+   "dinamica": "Construimos nuestro pesebre de amor",
+   "celebracion": "Cuarto domingo de Adviento",
+   "objetivo": "Preparar simbólicamente un lugar para recibir a Jesús mediante compromisos familiares.",
+   "cita": "Mateo 1,18-24",
+   "meditacion": [
+    "Jesús nació en un lugar humilde, rodeado del cuidado de María y José. Su nacimiento nos recuerda que Dios no necesita grandes lujos para acercarse a nosotros. Desea encontrar corazones abiertos y dispuestos a amar. Cada buena acción puede convertirse simbólicamente en una pequeña paja que prepara el pesebre donde recibiremos al Niño Jesús."
+   ],
+   "pasos": [
+    "Colocar un pesebre vacío o dibujar uno.",
+    "Preparar tiras de papel amarillo que representen la paja.",
+    "Cada integrante escribe una buena acción que desea realizar antes de Navidad.",
+    "Colocar las tiras dentro del pesebre.",
+    "Encender la cuarta vela de Adviento con supervisión adulta.",
+    "Rezar juntos pidiendo que Jesús encuentre un lugar en el hogar."
+   ],
+   "nota": null,
+   "preguntas": "¿Cómo podemos preparar nuestro corazón para Jesús? ¿Qué acciones hacen que nuestro hogar sea un pequeño Belén?",
+   "oracion": [
+    "Niño Jesús, prepará nuestros corazones para recibirte. Que nuestro hogar esté lleno de fe, esperanza, respeto y amor. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Realizar una buena acción y colocar simbólicamente una nueva paja en el pesebre.",
+   "control": {
+    "tipo": "lista",
+    "n": 3
+   }
+  },
+  {
+   "dia": 23,
+   "fecha": "2026-12-21",
+   "diaSemana": "Lunes",
+   "etapa": 5,
+   "dinamica": "La visita de María",
+   "celebracion": null,
+   "objetivo": "Descubrir la importancia de acompañar a quienes necesitan cercanía y ayuda.",
+   "cita": "Lucas 1,39-45",
+   "meditacion": [
+    "María, después de recibir el anuncio del ángel, visita a su prima Isabel. Su gesto nos enseña que el amor verdadero se pone en movimiento. No basta con desear cosas buenas para los demás; también podemos acercarnos, escuchar y ofrecer ayuda. Durante la Navidad, muchas personas necesitan compañía más que regalos."
+   ],
+   "pasos": [
+    "Leer juntos el relato de la Visitación.",
+    "Conversar sobre personas cercanas que podrían necesitar compañía.",
+    "Escribir sus nombres en pequeñas tarjetas.",
+    "Elegir una persona a quien puedan llamar, visitar o enviar un mensaje.",
+    "Preparar un saludo navideño familiar.",
+    "Realizar el gesto de cercanía, respetando las posibilidades y necesidades de la persona."
+   ],
+   "nota": null,
+   "preguntas": "¿Quién podría sentirse solo esta Navidad? ¿Cómo podemos llevarle alegría?",
+   "oracion": [
+    "Virgen María, enseñanos a reconocer las necesidades de los demás y a llevar la alegría de Jesús a quienes nos rodean. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Contactar a una persona que necesite compañía o palabras de esperanza.",
+   "control": {
+    "tipo": "lista",
+    "n": 3
+   }
+  },
+  {
+   "dia": 24,
+   "fecha": "2026-12-22",
+   "diaSemana": "Martes",
+   "etapa": 5,
+   "dinamica": "Nuestro Magníficat familiar",
+   "celebracion": null,
+   "objetivo": "Agradecer las bendiciones recibidas durante el año y reconocer la presencia de Dios en la historia familiar.",
+   "cita": "Lucas 1,46-56",
+   "meditacion": [
+    "María alaba a Dios por las maravillas que ha realizado en su vida. También nosotros tenemos motivos para agradecer. Quizá este año estuvo lleno de desafíos, pero seguramente encontramos personas que nos ayudaron, momentos de alegría y oportunidades para crecer. La gratitud nos permite reconocer que Dios continúa acompañándonos."
+   ],
+   "pasos": [
+    "Leer o escuchar el Magníficat.",
+    "Colocar una hoja grande con la frase «Nuestra familia agradece a Dios por...».",
+    "Cada integrante escribe o dibuja tres bendiciones recibidas durante el año.",
+    "Compartir voluntariamente los agradecimientos.",
+    "Unir las aportaciones para crear una oración familiar.",
+    "Leer juntos la oración y colocarla cerca del nacimiento."
+   ],
+   "nota": null,
+   "preguntas": "¿Qué fue lo más valioso que recibimos este año? ¿Qué dificultad logramos enfrentar juntos?",
+   "oracion": [
+    "Padre celestial, gracias por acompañar nuestra historia. Bendecí nuestro hogar y ayudanos a vivir siempre con un corazón agradecido. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Agradecer personalmente a alguien que haya sido importante para la familia durante el año.",
+   "control": {
+    "tipo": "lista",
+    "n": 3
+   }
+  },
+  {
+   "dia": 25,
+   "fecha": "2026-12-23",
+   "diaSemana": "Miércoles",
+   "etapa": 5,
+   "dinamica": "Nuestra carta al Niño Jesús",
+   "celebracion": null,
+   "objetivo": "Integrar los aprendizajes del retiro y establecer compromisos familiares para continuar viviendo el Evangelio después de Navidad.",
+   "cita": "Lucas 2,1-7",
+   "meditacion": [
+    "Hemos llegado al final de nuestro retiro de Adviento. Durante estos veinticinco días aprendimos a escucharnos, agradecer, compartir, pedir perdón, cuidar nuestras palabras y reconocer el valor de cada integrante de nuestra familia.",
+    "Mañana celebraremos la Nochebuena.",
+    "Quizá nuestro hogar todavía tenga dificultades. Es posible que existan preocupaciones o situaciones que necesiten tiempo para mejorar.",
+    "Pero Jesús no espera encontrar familias perfectas.",
+    "Nos invita a construir hogares donde se practiquen el amor, la verdad, el respeto y la misericordia.",
+    "La Navidad nos recuerda que Dios quiso formar parte de una familia humana y compartir nuestra vida cotidiana.",
+    "Hoy queremos ofrecerle nuestro mejor regalo: el compromiso de continuar creciendo juntos."
+   ],
+   "pasos": [
+    "Reunirse alrededor del nacimiento.",
+    "Recordar las dinámicas favoritas de los últimos veinticinco días.",
+    "Cada integrante comparte algo bueno que descubrió sobre su familia.",
+    "Preparar una hoja con el título «Querido Niño Jesús».",
+    "Cada persona escribe o dibuja una frase de agradecimiento, una petición y un compromiso.",
+    "Unir las aportaciones en una carta familiar.",
+    "Leerla juntos, sin obligar a nadie a compartir sentimientos privados.",
+    "Guardarla cerca del nacimiento para volver a leerla durante la Navidad.",
+    "Terminar con un padrenuestro."
+   ],
+   "nota": null,
+   "preguntas": "¿Qué aprendimos durante este retiro? ¿Qué queremos seguir practicando después de Navidad?",
+   "oracion": [
+    "Señor Jesús:",
+    "Hoy llegamos al final de nuestro camino de Adviento.",
+    "Gracias por permitirnos compartir estos momentos de oración, reflexión y encuentro.",
+    "Te damos gracias por nuestra familia, por cada persona que forma parte de nuestra historia y por las bendiciones que hemos recibido.",
+    "Perdoná nuestras faltas y ayudanos a reconocer cuando nuestras palabras o acciones han lastimado a los demás.",
+    "Enseñanos a escucharnos con paciencia, a expresar nuestro cariño con sinceridad y a resolver nuestras diferencias con respeto.",
+    "Que nuestro hogar sea un lugar donde nadie tenga miedo de expresar sus sentimientos, donde los pequeños sean protegidos, los mayores sean valorados y todos podamos sentirnos queridos.",
+    "Bendecí a quienes hoy están lejos de sus familias, a quienes viven en soledad, a los enfermos y a quienes atraviesan dificultades.",
+    "Que la esperanza ilumine nuestra casa, que la paz acompañe nuestras conversaciones, que la alegría fortalezca nuestros encuentros y que el amor guíe nuestras decisiones.",
+    "Cuando llegue la Navidad, encontrá en nuestro hogar un pequeño Belén dispuesto a recibirte.",
+    "Ven, Niño Jesús, y quedate siempre con nuestra familia.",
+    "Amén."
+   ],
+   "oracionEsFinal": true,
+   "compromiso": "Conservar la carta al Niño Jesús y elegir tres buenas costumbres familiares que continuarán practicando después de Navidad.",
+   "control": {
+    "tipo": "carta"
+   }
+  }
+ ],
+ "oracionFinal": [
+  "Señor Jesús:",
+  "Hoy llegamos al final de nuestro camino de Adviento.",
+  "Gracias por permitirnos compartir estos momentos de oración, reflexión y encuentro.",
+  "Te damos gracias por nuestra familia, por cada persona que forma parte de nuestra historia y por las bendiciones que hemos recibido.",
+  "Perdoná nuestras faltas y ayudanos a reconocer cuando nuestras palabras o acciones han lastimado a los demás.",
+  "Enseñanos a escucharnos con paciencia, a expresar nuestro cariño con sinceridad y a resolver nuestras diferencias con respeto.",
+  "Que nuestro hogar sea un lugar donde nadie tenga miedo de expresar sus sentimientos, donde los pequeños sean protegidos, los mayores sean valorados y todos podamos sentirnos queridos.",
+  "Bendecí a quienes hoy están lejos de sus familias, a quienes viven en soledad, a los enfermos y a quienes atraviesan dificultades.",
+  "Que la esperanza ilumine nuestra casa, que la paz acompañe nuestras conversaciones, que la alegría fortalezca nuestros encuentros y que el amor guíe nuestras decisiones.",
+  "Cuando llegue la Navidad, encontrá en nuestro hogar un pequeño Belén dispuesto a recibirte.",
+  "Ven, Niño Jesús, y quedate siempre con nuestra familia.",
+  "Amén."
+ ],
+ "clave": "familiar",
+ "nombre": "Nuestro hogar, un pequeño Belén",
+ "subtitulo": "25 días para recibir a Jesús en familia",
+ "boton": "¡Dinámica completada!",
+ "tipoPreguntas": "Preguntas para conversar en familia"
+}

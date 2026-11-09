@@ -1,0 +1,839 @@
+{
+ "etapas": [
+  {
+   "n": 1,
+   "nombre": "Encontrarme conmigo mismo",
+   "lema": "29 de noviembre al 3 de diciembre · Reconocer mi realidad ante Dios"
+  },
+  {
+   "n": 2,
+   "nombre": "Mirar mi vida con sinceridad",
+   "lema": "4 al 8 de diciembre · Reconocer mis decisiones, relaciones y necesidades"
+  },
+  {
+   "n": 3,
+   "nombre": "Entregar mis heridas",
+   "lema": "9 al 13 de diciembre · Misericordia, perdón y sanación interior"
+  },
+  {
+   "n": 4,
+   "nombre": "Recuperar la esperanza",
+   "lema": "14 al 18 de diciembre · Reconstruir la confianza y descubrir nuevos caminos"
+  },
+  {
+   "n": 5,
+   "nombre": "Preparar mi corazón para Jesús",
+   "lema": "19 al 23 de diciembre · Conversión, amor y compromiso espiritual"
+  }
+ ],
+ "dias": [
+  {
+   "dia": 1,
+   "fecha": "2026-11-29",
+   "diaSemana": "Domingo",
+   "etapa": 1,
+   "dinamica": "La maleta de mi corazón",
+   "celebracion": null,
+   "objetivo": "Identificar las cargas emocionales y espirituales con las que comienzo este Adviento.",
+   "cita": "Mateo 11,28-30",
+   "meditacion": [
+    "Todos llevamos una maleta invisible. En ella guardamos preocupaciones, recuerdos, responsabilidades, temores y situaciones que todavía no hemos logrado resolver. Jesús nos invita a acercarnos a Él con esa maleta, sin necesidad de esconder su contenido. Hoy comienza un camino de confianza: reconocer lo que llevamos y permitir que Dios nos acompañe."
+   ],
+   "pasos": [
+    "Imaginá una maleta abierta delante de vos.",
+    "Escribí cinco preocupaciones o cargas que llevás actualmente.",
+    "Elegí la que más pesa en tu corazón.",
+    "Preguntate qué parte de esa situación podés atender y qué parte está fuera de tu control.",
+    "Terminá imaginando que colocás tu maleta a los pies de Jesús."
+   ],
+   "nota": null,
+   "preguntas": "¿Qué carga necesito dejar de llevar completamente solo?",
+   "oracion": [
+    "Señor Jesús, hoy pongo delante de Ti mis preocupaciones. Ayúdame a reconocer mis límites y a confiar en tu compañía. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Dedicar diez minutos a descansar sin distracciones.",
+   "control": {
+    "tipo": "lista",
+    "n": 5
+   }
+  },
+  {
+   "dia": 2,
+   "fecha": "2026-11-30",
+   "diaSemana": "Lunes",
+   "etapa": 1,
+   "dinamica": "El espejo de Dios",
+   "celebracion": null,
+   "objetivo": "Reconocer la dignidad personal y aprender a mirarse con misericordia.",
+   "cita": "Isaías 43,1-4",
+   "meditacion": [
+    "Muchas veces nos definimos por nuestros errores, fracasos o por las opiniones de otras personas. Pero Dios nos mira con amor y reconoce nuestro valor más allá de nuestras equivocaciones. Nuestra dignidad no depende de cuánto producimos ni de cuánto nos necesitan."
+   ],
+   "pasos": [
+    "Buscá un espejo o imaginá que estás frente a uno.",
+    "Observate durante unos instantes sin criticar tu apariencia.",
+    "Escribí tres cualidades positivas que reconocés en vos.",
+    "Recordá una dificultad que hayas logrado superar.",
+    "Completá la frase: «Soy una persona valiosa porque...»."
+   ],
+   "nota": null,
+   "preguntas": "¿Qué pensamientos negativos sobre mí necesito comenzar a transformar?",
+   "oracion": [
+    "Padre amado, enseñame a mirarme con la misma misericordia con la que Tú me mirás. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Evitar durante el día las expresiones de desprecio hacia uno mismo.",
+   "control": {
+    "tipo": "lista",
+    "n": 3
+   }
+  },
+  {
+   "dia": 3,
+   "fecha": "2026-12-01",
+   "diaSemana": "Martes",
+   "etapa": 1,
+   "dinamica": "Mi mapa de emociones",
+   "celebracion": null,
+   "objetivo": "Reconocer las emociones sin juzgarlas ni reprimirlas.",
+   "cita": "Salmo 62,6-9",
+   "meditacion": [
+    "La tristeza, el miedo, la alegría, el enojo y la incertidumbre forman parte de nuestra experiencia humana. Sentirlas no significa tener poca fe. Dios nos invita a presentarle nuestra realidad interior con sinceridad."
+   ],
+   "pasos": [
+    "Elegí tres emociones que hayas experimentado recientemente.",
+    "Asigná a cada una una intensidad del 1 al 10.",
+    "Escribí qué situación pudo haber provocado cada emoción.",
+    "Identificá qué necesidad personal podría estar señalando.",
+    "Elegí una forma saludable de atender esa necesidad."
+   ],
+   "nota": null,
+   "preguntas": "¿Qué emoción me cuesta más reconocer y expresar?",
+   "oracion": [
+    "Señor, ayudame a comprender mis emociones y a responder a ellas con sabiduría. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Hacer tres pausas durante el día para reconocer cómo me siento.",
+   "control": {
+    "tipo": "escala",
+    "libre": 3
+   }
+  },
+  {
+   "dia": 4,
+   "fecha": "2026-12-02",
+   "diaSemana": "Miércoles",
+   "etapa": 1,
+   "dinamica": "El ruido y el silencio",
+   "celebracion": null,
+   "objetivo": "Recuperar espacios de tranquilidad y escucha interior.",
+   "cita": "1 Reyes 19,11-13",
+   "meditacion": [
+    "Nuestra vida está llena de sonidos, mensajes, compromisos y pensamientos que compiten por nuestra atención. El silencio puede ayudarnos a reconocer aquello que verdaderamente necesitamos y a disponer el corazón para escuchar a Dios."
+   ],
+   "pasos": [
+    "Apagá las notificaciones y buscá un lugar tranquilo.",
+    "Permanecé dos minutos observando tu respiración natural.",
+    "Guardá cinco minutos de silencio.",
+    "Identificá qué pensamientos aparecieron con mayor frecuencia.",
+    "Escribí una palabra que describa lo que necesitás en este momento."
+   ],
+   "nota": null,
+   "preguntas": "¿Qué estoy evitando escuchar dentro de mí?",
+   "oracion": [
+    "Señor, enseñame a encontrar tu presencia en el silencio. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Reservar diez minutos sin teléfono, televisión ni redes sociales.",
+   "control": {
+    "tipo": "lista",
+    "n": 5
+   }
+  },
+  {
+   "dia": 5,
+   "fecha": "2026-12-03",
+   "diaSemana": "Jueves",
+   "etapa": 1,
+   "dinamica": "Mi línea de vida",
+   "celebracion": null,
+   "objetivo": "Reconocer los acontecimientos que han marcado mi historia.",
+   "cita": "Salmo 139,1-6",
+   "meditacion": [
+    "Nuestra vida está formada por experiencias felices y dolorosas. Algunas nos fortalecieron; otras dejaron preguntas o heridas. Mirar nuestra historia con misericordia nos permite reconocer cuánto hemos aprendido y descubrir que Dios continúa acompañándonos."
+   ],
+   "pasos": [
+    "Dibujá una línea horizontal que represente tu vida.",
+    "Marcá cinco acontecimientos importantes.",
+    "Señalá cuáles fueron momentos de alegría y cuáles de dificultad.",
+    "Escribí qué aprendizaje te dejó cada experiencia.",
+    "Elegí un acontecimiento por el que hoy puedas agradecer."
+   ],
+   "nota": null,
+   "preguntas": "¿Qué parte de mi historia necesito aprender a mirar con mayor compasión?",
+   "oracion": [
+    "Señor, gracias por acompañarme a lo largo de mi historia. Ayudame a aprender de cada etapa. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Agradecer una experiencia del pasado que haya contribuido a mi crecimiento.",
+   "control": {
+    "tipo": "lista",
+    "n": 5
+   }
+  },
+  {
+   "dia": 6,
+   "fecha": "2026-12-04",
+   "diaSemana": "Viernes",
+   "etapa": 2,
+   "dinamica": "Las luces y sombras de mi vida",
+   "celebracion": null,
+   "objetivo": "Realizar un examen personal equilibrado, reconociendo virtudes, errores y oportunidades de crecimiento.",
+   "cita": "Salmo 139,23-24",
+   "meditacion": [
+    "Todos tenemos luces y sombras. Hemos realizado acciones generosas, pero también hemos cometido errores. Dios no nos invita a vivir escondiendo nuestras debilidades ni castigándonos por ellas. Nos llama a reconocer la verdad para crecer. La conversión comienza cuando somos capaces de mirar nuestra vida sin excusas, pero también sin despreciarnos."
+   ],
+   "pasos": [
+    "Dividí una hoja en dos columnas: «Mis luces» y «Mis sombras».",
+    "En la primera, escribí cinco cualidades o acciones positivas que reconocés en tu vida.",
+    "En la segunda, identificá tres actitudes que necesitás mejorar.",
+    "Elegí una actitud que dependa directamente de vos.",
+    "Escribí una acción concreta para comenzar a transformarla."
+   ],
+   "nota": null,
+   "preguntas": "¿Estoy reconociendo mis virtudes con la misma sinceridad con la que reconozco mis errores?",
+   "oracion": [
+    "Señor, dame humildad para reconocer mis equivocaciones y gratitud para valorar los dones que me has regalado. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Corregir una pequeña actitud negativa durante el día.",
+   "control": {
+    "tipo": "lista",
+    "n": 5
+   }
+  },
+  {
+   "dia": 7,
+   "fecha": "2026-12-05",
+   "diaSemana": "Sábado",
+   "etapa": 2,
+   "dinamica": "La rueda de mi vida",
+   "celebracion": null,
+   "objetivo": "Evaluar las áreas fundamentales de la vida e identificar cuáles necesitan mayor atención.",
+   "cita": "Lucas 2,52",
+   "meditacion": [
+    "Jesús crecía en sabiduría, estatura y gracia. Su ejemplo nos recuerda la importancia del desarrollo integral. No somos únicamente trabajadores, padres, esposos, hijos o servidores de los demás. También necesitamos cuidar nuestra salud, nuestra vida espiritual, nuestras emociones y nuestro descanso."
+   ],
+   "pasos": [
+    "Evaluá del 1 al 10 tu satisfacción actual en estas áreas: espiritualidad, salud, familia, relaciones, trabajo, descanso y bienestar emocional.",
+    "Observá cuáles recibieron las puntuaciones más bajas.",
+    "Elegí una de esas áreas sin juzgarte.",
+    "Escribí qué necesidad concreta has descuidado.",
+    "Definí una pequeña acción para atenderla durante la próxima semana."
+   ],
+   "nota": null,
+   "preguntas": "¿Qué aspecto de mi vida he sacrificado por atender otras responsabilidades?",
+   "oracion": [
+    "Padre bueno, ayudame a cuidar la vida que me has confiado y a encontrar equilibrio entre mis responsabilidades y mis necesidades. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Dedicar al menos veinte minutos a una actividad saludable que hayas postergado.",
+   "control": {
+    "tipo": "escala",
+    "areas": [
+     "espiritualidad",
+     "salud",
+     "familia",
+     "relaciones",
+     "trabajo",
+     "descanso",
+     "bienestar emocional"
+    ]
+   }
+  },
+  {
+   "dia": 8,
+   "fecha": "2026-12-06",
+   "diaSemana": "Domingo",
+   "etapa": 2,
+   "dinamica": "Preparar el camino",
+   "celebracion": null,
+   "objetivo": "Identificar los obstáculos interiores que dificultan la relación con Dios.",
+   "cita": "Mateo 3,1-12",
+   "meditacion": [
+    "Juan el Bautista nos invita a preparar el camino del Señor. Ese camino también atraviesa nuestro interior. A veces está lleno de orgullo, resentimiento, indiferencia o hábitos que nos alejan de la paz. Prepararlo significa reconocer aquello que necesita cambiar y comenzar a construir una vida más coherente con el Evangelio."
+   ],
+   "pasos": [
+    "Imaginá un camino que conduce hacia Jesús.",
+    "Escribí tres obstáculos que encontrás en ese camino.",
+    "Identificá cuál depende de una decisión personal.",
+    "Escribí qué acción te ayudaría a superar ese obstáculo.",
+    "Terminá el ejercicio con una breve oración de conversión."
+   ],
+   "nota": null,
+   "preguntas": "¿Qué estoy permitiendo que me aleje de Dios?",
+   "oracion": [
+    "Señor Jesús, ayudame a preparar el camino de mi corazón. Quitá de mí aquello que me impide amar con sinceridad. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Renunciar hoy a una conducta que perjudique mi paz o mis relaciones.",
+   "control": {
+    "tipo": "lista",
+    "n": 3
+   }
+  },
+  {
+   "dia": 9,
+   "fecha": "2026-12-07",
+   "diaSemana": "Lunes",
+   "etapa": 2,
+   "dinamica": "Mis prioridades verdaderas",
+   "celebracion": null,
+   "objetivo": "Reconocer la diferencia entre las obligaciones cotidianas y aquello que da sentido a la vida.",
+   "cita": "Mateo 6,19-21",
+   "meditacion": [
+    "Nuestro tiempo es limitado, pero con frecuencia vivimos como si pudiéramos hacerlo todo. Nos esforzamos por cumplir compromisos y satisfacer expectativas, mientras dejamos para después lo verdaderamente importante. Jesús nos invita a descubrir dónde está nuestro tesoro, porque allí estará también nuestro corazón."
+   ],
+   "pasos": [
+    "Escribí las cinco actividades a las que dedicás más tiempo durante una semana normal.",
+    "Anotá las cinco cosas que considerás más importantes en tu vida.",
+    "Compará ambas listas.",
+    "Identificá una prioridad que no esté recibiendo suficiente atención.",
+    "Elegí una actividad menos importante que puedas reducir para recuperar tiempo."
+   ],
+   "nota": null,
+   "preguntas": "¿Estoy dedicando mi vida a lo que verdaderamente considero valioso?",
+   "oracion": [
+    "Señor, enseñame a ordenar mis prioridades y a dedicar tiempo a aquello que fortalece mi relación contigo y con quienes amo. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Reservar tiempo de calidad para una prioridad personal o espiritual.",
+   "control": {
+    "tipo": "lista",
+    "n": 5
+   }
+  },
+  {
+   "dia": 10,
+   "fecha": "2026-12-08",
+   "diaSemana": "Martes",
+   "etapa": 2,
+   "dinamica": "Mi sí a Dios",
+   "celebracion": "Solemnidad de la Inmaculada Concepción",
+   "objetivo": "Aprender de María a responder con confianza y libertad a la voluntad de Dios.",
+   "cita": "Lucas 1,26-38",
+   "meditacion": [
+    "María recibe una misión que transforma su historia. Aunque no conoce todos los detalles del futuro, responde con confianza. Su ejemplo nos recuerda que la fe no exige tener todas las respuestas antes de actuar. También nosotros podemos dar pequeños pasos hacia aquello que Dios nos invita a construir."
+   ],
+   "pasos": [
+    "Recordá una decisión importante que hayas postergado por miedo.",
+    "Escribí qué temés perder o enfrentar.",
+    "Identificá qué valores cristianos deberían orientar esa decisión.",
+    "Preguntate qué consejo darías a una persona querida que estuviera en tu situación.",
+    "Completá: «Señor, hoy quiero decirte sí a...»."
+   ],
+   "nota": null,
+   "preguntas": "¿Qué paso bueno y responsable puedo dar, aunque todavía sienta incertidumbre?",
+   "oracion": [
+    "María Inmaculada, enseñame a confiar en Dios y a responder con generosidad a su llamado. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Realizar una acción que hayas postergado por temor, siempre que sea prudente y beneficiosa.",
+   "control": {
+    "tipo": "lista",
+    "n": 3
+   }
+  },
+  {
+   "dia": 11,
+   "fecha": "2026-12-09",
+   "diaSemana": "Miércoles",
+   "etapa": 3,
+   "dinamica": "Las heridas invisibles",
+   "celebracion": null,
+   "objetivo": "Reconocer experiencias dolorosas que todavía necesitan atención y cuidado.",
+   "cita": "Salmo 147,3",
+   "meditacion": [
+    "Existen heridas que nadie puede ver. Algunas nacieron de palabras, pérdidas, rechazos o experiencias que nos hicieron sentir vulnerables. Dios conoce esas heridas y nos invita a presentárselas con confianza. Sanar no significa olvidar ni fingir que nada sucedió. Significa comenzar a cuidar aquello que todavía nos duele."
+   ],
+   "pasos": [
+    "Dibujá un corazón en una hoja.",
+    "Escribí dentro una o dos situaciones que todavía te causen tristeza, sin necesidad de describir detalles dolorosos.",
+    "Identificá qué emoción aparece al recordarlas.",
+    "Escribí qué necesitás hoy para sentirte más seguro y acompañado.",
+    "Colocá la hoja junto a una imagen de Jesús y ofrecé una oración."
+   ],
+   "nota": null,
+   "preguntas": "¿Qué herida necesita atención en lugar de silencio?",
+   "oracion": [
+    "Jesús misericordioso, conocés las heridas que llevo dentro. Acompañame en mi proceso de sanación y ayudame a encontrar la paz. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Tratarte hoy con especial paciencia y comprensión.",
+   "control": {
+    "tipo": "lista",
+    "n": 3
+   }
+  },
+  {
+   "dia": 12,
+   "fecha": "2026-12-10",
+   "diaSemana": "Jueves",
+   "etapa": 3,
+   "dinamica": "La carta que nunca envié",
+   "celebracion": null,
+   "objetivo": "Expresar sentimientos pendientes de manera privada y respetuosa.",
+   "cita": "Salmo 34,18-19",
+   "meditacion": [
+    "Hay palabras que nunca logramos expresar. A veces guardamos tristeza, enojo o decepción porque no encontramos el momento adecuado para hablar. Escribir puede ayudarnos a comprender lo que sentimos sin necesidad de enfrentar inmediatamente a otra persona."
+   ],
+   "pasos": [
+    "Pensá en una situación que haya dejado sentimientos pendientes.",
+    "Escribí una carta que comience: «Hay algo que necesito expresar...».",
+    "Describí cómo te sentiste, sin preocuparte por encontrar palabras perfectas.",
+    "Agregá qué necesitabas entonces y qué necesitás ahora.",
+    "Terminá con la frase: «Hoy elijo cuidar mi paz de esta manera...»."
+   ],
+   "nota": "Esta carta es privada. No debe enviarse como parte de la dinámica.",
+   "preguntas": "¿Qué sentimiento he guardado durante demasiado tiempo?",
+   "oracion": [
+    "Señor, ayudame a expresar mis sentimientos con honestidad y a encontrar caminos saludables para recuperar mi tranquilidad. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Escribir durante diez minutos sin juzgar tus emociones.",
+   "control": {
+    "tipo": "carta"
+   }
+  },
+  {
+   "dia": 13,
+   "fecha": "2026-12-11",
+   "diaSemana": "Viernes",
+   "etapa": 3,
+   "dinamica": "Soltar las piedras",
+   "celebracion": null,
+   "objetivo": "Identificar cargas emocionales que podemos comenzar a dejar atrás.",
+   "cita": "1 Pedro 5,7",
+   "meditacion": [
+    "Algunas preocupaciones se convierten en piedras que llevamos diariamente. Pueden ser culpas, resentimientos, expectativas imposibles o situaciones fuera de nuestro control. Jesús nos invita a confiarle nuestras inquietudes. Soltar no significa desentendernos de nuestras responsabilidades, sino dejar de exigirnos controlar aquello que no depende de nosotros."
+   ],
+   "pasos": [
+    "Buscá tres piedras pequeñas o dibujá tres sobre una hoja.",
+    "Asigná a cada una una preocupación.",
+    "Identificá qué parte de cada situación podés cambiar.",
+    "Escribí una acción posible y una expectativa que necesitás abandonar.",
+    "Colocá simbólicamente las piedras a los pies de un crucifijo."
+   ],
+   "nota": null,
+   "preguntas": "¿Qué situación estoy intentando controlar aunque no dependa de mí?",
+   "oracion": [
+    "Señor Jesús, te entrego mis preocupaciones. Dame sabiduría para actuar donde puedo y serenidad para aceptar mis límites. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Evitar durante el día darle vueltas repetidamente a una preocupación que no podés resolver ahora; cuando aparezca, recordá tu siguiente paso concreto.",
+   "control": {
+    "tipo": "lista",
+    "n": 3
+   }
+  },
+  {
+   "dia": 14,
+   "fecha": "2026-12-12",
+   "diaSemana": "Sábado",
+   "etapa": 3,
+   "dinamica": "El abrazo de María",
+   "celebracion": "Nuestra Señora de Guadalupe",
+   "objetivo": "Experimentar la cercanía maternal de María y reconocer la importancia de recibir consuelo.",
+   "cita": "Juan 19,25-27",
+   "meditacion": [
+    "La Virgen María nos recuerda que la fe también se vive a través del acompañamiento y la ternura. Todos necesitamos sentirnos escuchados, comprendidos y cuidados. Reconocer esa necesidad no nos hace débiles; nos recuerda que fuimos creados para vivir en comunión."
+   ],
+   "pasos": [
+    "Colocá una imagen de la Virgen María cerca de vos.",
+    "Recordá una ocasión en la que alguien te ofreció consuelo.",
+    "Escribí qué significó ese gesto para tu vida.",
+    "Identificá una necesidad afectiva que te cuesta expresar.",
+    "Rezá lentamente un avemaría, confiando esa necesidad a la intercesión de María."
+   ],
+   "nota": null,
+   "preguntas": "¿Me permito recibir cariño, ayuda y acompañamiento cuando los necesito?",
+   "oracion": [
+    "Virgen de Guadalupe, Madre amorosa, acompañame en mis dificultades. Llevá mis preocupaciones a Jesús y enseñame a recibir y compartir el amor. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Buscar un momento de cercanía con alguien de confianza o brindar consuelo a quien lo necesite.",
+   "control": {
+    "tipo": "lista",
+    "n": 3
+   }
+  },
+  {
+   "dia": 15,
+   "fecha": "2026-12-13",
+   "diaSemana": "Domingo",
+   "etapa": 3,
+   "dinamica": "La puerta del perdón",
+   "celebracion": "Tercer domingo de Adviento · Gaudete",
+   "objetivo": "Comprender el perdón como un proceso de libertad interior y misericordia.",
+   "cita": "Efesios 4,31-32",
+   "meditacion": [
+    "Perdonar puede ser uno de los caminos más difíciles de nuestra vida. Algunas heridas requieren tiempo y acompañamiento para sanar. El perdón cristiano no significa justificar una injusticia, negar el dolor ni restablecer obligatoriamente una relación. Significa disponernos, con la gracia de Dios, a no permanecer dominados por el resentimiento. También necesitamos aprender a recibir el perdón de Dios y reconocer nuestros propios errores."
+   ],
+   "pasos": [
+    "Dibujá una puerta cerrada.",
+    "Escribí a un lado aquello que te dificulta encontrar paz respecto de una situación.",
+    "Al otro lado, escribí qué significaría vivir con mayor libertad interior.",
+    "Identificá un paso seguro que puedas dar hacia esa paz.",
+    "Si deseás hacerlo, dibujá la puerta entreabierta como símbolo de disposición a sanar."
+   ],
+   "nota": null,
+   "preguntas": "¿Qué necesito para avanzar hacia la paz sin negar mi dignidad ni mi historia?",
+   "oracion": [
+    "Señor, ayudame a comprender tu misericordia. Dame tiempo, fortaleza y sabiduría para recorrer los caminos del perdón y la sanación. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Realizar un gesto de misericordia hacia vos mismo o hacia otra persona.",
+   "control": {
+    "tipo": "puerta"
+   }
+  },
+  {
+   "dia": 16,
+   "fecha": "2026-12-14",
+   "diaSemana": "Lunes",
+   "etapa": 4,
+   "dinamica": "Las semillas de esperanza",
+   "celebracion": null,
+   "objetivo": "Identificar posibilidades de crecimiento y renovación personal.",
+   "cita": "Isaías 40,28-31",
+   "meditacion": [
+    "Una semilla parece pequeña e insignificante, pero guarda la posibilidad de convertirse en una planta llena de vida. También nuestros pequeños esfuerzos pueden dar frutos importantes. La esperanza cristiana nos recuerda que, aunque no podamos cambiar todo de inmediato, siempre podemos comenzar a construir algo bueno."
+   ],
+   "pasos": [
+    "Dibujá tres semillas o colocá tres semillas reales frente a vos.",
+    "Asigná a cada una un deseo de crecimiento: espiritual, personal y familiar o social.",
+    "Escribí qué necesitás para cultivar cada uno.",
+    "Identificá una acción pequeña que puedas realizar durante los próximos siete días.",
+    "Elegí una semilla como símbolo de tu compromiso principal."
+   ],
+   "nota": null,
+   "preguntas": "¿Qué aspecto de mi vida puede comenzar a florecer si le dedico atención y constancia?",
+   "oracion": [
+    "Señor, renová mi esperanza y enseñame a valorar los pequeños comienzos. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Dar hoy el primer paso hacia una meta personal importante.",
+   "control": {
+    "tipo": "lista",
+    "n": 3
+   }
+  },
+  {
+   "dia": 17,
+   "fecha": "2026-12-15",
+   "diaSemana": "Martes",
+   "etapa": 4,
+   "dinamica": "Mis victorias olvidadas",
+   "celebracion": null,
+   "objetivo": "Reconocer las dificultades superadas y fortalecer la confianza personal.",
+   "cita": "Filipenses 4,12-13",
+   "meditacion": [
+    "Cuando atravesamos una etapa difícil, podemos olvidar todo aquello que hemos logrado superar. Nuestra memoria se concentra en los errores y deja en segundo plano las experiencias que demostraron nuestra perseverancia. Reconocer nuestras pequeñas victorias no es vanidad: es agradecer las capacidades y oportunidades que Dios nos ha concedido."
+   ],
+   "pasos": [
+    "Escribí cinco dificultades que hayas logrado enfrentar a lo largo de tu vida.",
+    "Recordá qué recursos personales utilizaste.",
+    "Identificá quiénes te acompañaron.",
+    "Anotá qué aprendiste de esas experiencias.",
+    "Elegí una fortaleza que puedas utilizar frente a una dificultad actual."
+   ],
+   "nota": null,
+   "preguntas": "¿Qué fortaleza he demostrado en el pasado y necesito recordar hoy?",
+   "oracion": [
+    "Padre bueno, gracias por las fuerzas que me has concedido en los momentos difíciles. Ayudame a reconocer los dones que has sembrado en mí. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Agradecer a alguien que te haya acompañado en una etapa complicada.",
+   "control": {
+    "tipo": "lista",
+    "n": 5
+   }
+  },
+  {
+   "dia": 18,
+   "fecha": "2026-12-16",
+   "diaSemana": "Miércoles",
+   "etapa": 4,
+   "dinamica": "Mi árbol de gratitud",
+   "celebracion": null,
+   "objetivo": "Reconocer las bendiciones presentes y cultivar una mirada agradecida.",
+   "cita": "1 Tesalonicenses 5,16-18",
+   "meditacion": [
+    "Agradecer no significa ignorar nuestras dificultades. Significa reconocer que nuestra historia contiene también momentos de bondad, oportunidades y personas que nos han acompañado. La gratitud nos ayuda a mirar la vida de una manera más completa y a descubrir la presencia de Dios en lo cotidiano."
+   ],
+   "pasos": [
+    "Dibujá un árbol con raíces, tronco, ramas y hojas.",
+    "En las raíces, escribí los valores o personas que te han sostenido.",
+    "En el tronco, anotá tres fortalezas personales.",
+    "En las ramas, escribí cinco bendiciones de este año.",
+    "En las hojas, colocá tres cosas que esperás cultivar en el futuro."
+   ],
+   "nota": null,
+   "preguntas": "¿Qué bendiciones he dejado de reconocer por concentrarme en mis preocupaciones?",
+   "oracion": [
+    "Señor, gracias por las personas, oportunidades y experiencias que han enriquecido mi vida. Enseñame a vivir con un corazón agradecido. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Expresar gratitud a tres personas durante el día.",
+   "control": {
+    "tipo": "arbol"
+   }
+  },
+  {
+   "dia": 19,
+   "fecha": "2026-12-17",
+   "diaSemana": "Jueves",
+   "etapa": 4,
+   "dinamica": "El camino que quiero construir",
+   "celebracion": null,
+   "objetivo": "Definir cambios personales realistas, coherentes con la fe y los propios valores.",
+   "cita": "Proverbios 3,5-6",
+   "meditacion": [
+    "El futuro puede despertar entusiasmo, pero también incertidumbre. Muchas veces deseamos conocer todas las respuestas antes de tomar una decisión. Sin embargo, caminar con Dios implica aprender a avanzar con prudencia, confianza y responsabilidad. No necesitamos resolver toda nuestra vida hoy. Podemos comenzar eligiendo el siguiente paso correcto."
+   ],
+   "pasos": [
+    "Dibujá un camino con cinco estaciones.",
+    "En la primera, escribí dónde te encontrás actualmente.",
+    "En la última, describí cómo te gustaría vivir dentro de un año.",
+    "En las tres estaciones intermedias, anotá cambios que te ayudarían a avanzar.",
+    "Elegí el primer cambio y definí cuándo comenzarás."
+   ],
+   "nota": null,
+   "preguntas": "¿Qué decisión puedo tomar hoy para acercarme a la persona que deseo llegar a ser?",
+   "oracion": [
+    "Señor, iluminá mis decisiones. Ayudame a caminar con responsabilidad, esperanza y confianza en tu presencia. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Realizar una acción concreta que contribuya a tu bienestar futuro.",
+   "control": {
+    "tipo": "camino"
+   }
+  },
+  {
+   "dia": 20,
+   "fecha": "2026-12-18",
+   "diaSemana": "Viernes",
+   "etapa": 4,
+   "dinamica": "Mi círculo de apoyo",
+   "celebracion": null,
+   "objetivo": "Reconocer relaciones saludables y aprender a pedir ayuda.",
+   "cita": "Gálatas 6,2",
+   "meditacion": [
+    "Dios nos creó para vivir en relación con los demás. No necesitamos enfrentar todas nuestras dificultades solos. La familia, los amigos, la comunidad cristiana y las personas que nos acompañan pueden convertirse en instrumentos de su amor. Pero también necesitamos aprender a reconocer qué relaciones nos brindan seguridad, respeto y confianza."
+   ],
+   "pasos": [
+    "Dibujá tres círculos concéntricos.",
+    "En el círculo interior, escribí los nombres de personas con quienes te sentís seguro y escuchado.",
+    "En el segundo, colocá personas con quienes compartís actividades y experiencias positivas.",
+    "En el tercero, anotá comunidades o recursos de apoyo a los que podrías acudir.",
+    "Identificá una relación que deseás fortalecer de manera saludable."
+   ],
+   "nota": null,
+   "preguntas": "¿Con quién puedo hablar sinceramente cuando necesito ayuda?",
+   "oracion": [
+    "Señor, gracias por las personas que me acompañan. Enseñame a construir relaciones basadas en el respeto, la confianza y la generosidad. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Contactar a una persona de confianza y compartir un momento de conversación sincera.",
+   "control": {
+    "tipo": "circulos"
+   }
+  },
+  {
+   "dia": 21,
+   "fecha": "2026-12-19",
+   "diaSemana": "Sábado",
+   "etapa": 5,
+   "dinamica": "Limpiar la casa interior",
+   "celebracion": null,
+   "objetivo": "Reconocer hábitos y actitudes que dificultan la vida espiritual.",
+   "cita": "Apocalipsis 3,20",
+   "meditacion": [
+    "Cuando esperamos una visita especial, procuramos preparar nuestra casa. Limpiamos, ordenamos y hacemos espacio para recibir a quien llega. El Adviento nos invita a realizar algo semejante en nuestro corazón. Jesús desea entrar en nuestra vida, pero muchas veces estamos tan ocupados que olvidamos ofrecerle tiempo y atención."
+   ],
+   "pasos": [
+    "Dibujá una casa con cuatro habitaciones.",
+    "Nombrá cada habitación: pensamientos, palabras, acciones y relaciones.",
+    "Escribí en cada una una actitud que necesitás mejorar.",
+    "Elegí una habitación que requiera atención especial.",
+    "Anotá qué cambio concreto te ayudaría a preparar ese espacio para Jesús."
+   ],
+   "nota": null,
+   "preguntas": "¿Qué necesito ordenar en mi vida para vivir más cerca de Dios?",
+   "oracion": [
+    "Jesús, entrá en mi corazón. Ayudame a transformar mis pensamientos, palabras y acciones para que reflejen tu amor. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Corregir una actitud que dificulte la convivencia o la paz interior.",
+   "control": {
+    "tipo": "casa"
+   }
+  },
+  {
+   "dia": 22,
+   "fecha": "2026-12-20",
+   "diaSemana": "Domingo",
+   "etapa": 5,
+   "dinamica": "Mi corazón es un pesebre",
+   "celebracion": "Cuarto domingo de Adviento",
+   "objetivo": "Reconocer que Jesús desea hacerse presente en nuestra vida cotidiana.",
+   "cita": "Mateo 1,18-24",
+   "meditacion": [
+    "Jesús nació en un pesebre humilde, lejos de las comodidades y grandezas que solemos considerar importantes. Su nacimiento nos recuerda que Dios no busca apariencias perfectas. Desea encontrar corazones abiertos, sinceros y dispuestos a amar. También nuestra vida, con sus limitaciones y dificultades, puede convertirse en un lugar de encuentro con Él."
+   ],
+   "pasos": [
+    "Observá una imagen del nacimiento de Jesús.",
+    "Imaginá que tu corazón es el pesebre donde será recibido.",
+    "Escribí tres cualidades que deseás ofrecerle: por ejemplo, humildad, confianza y generosidad.",
+    "Identificá una preocupación que querés poner en sus manos.",
+    "Terminá contemplando la imagen durante tres minutos en silencio."
+   ],
+   "nota": null,
+   "preguntas": "¿Qué encontrará Jesús en mi corazón cuando llegue la Navidad?",
+   "oracion": [
+    "Niño Jesús, quiero preparar un lugar para Ti. Recibí mi historia, mis esperanzas y mi deseo sincero de vivir cerca de tu amor. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Preparar un espacio de oración y encender la cuarta vela de Adviento.",
+   "control": {
+    "tipo": "lista",
+    "n": 3
+   }
+  },
+  {
+   "dia": 23,
+   "fecha": "2026-12-21",
+   "diaSemana": "Lunes",
+   "etapa": 5,
+   "dinamica": "El regalo que no se compra",
+   "celebracion": null,
+   "objetivo": "Descubrir que el amor verdadero se expresa mediante acciones y actitudes concretas.",
+   "cita": "1 Corintios 13,4-7",
+   "meditacion": [
+    "Durante la Navidad solemos preocuparnos por los regalos que ofreceremos a nuestros seres queridos. Sin embargo, algunos de los obsequios más valiosos no pueden comprarse: tiempo, comprensión, paciencia, respeto, compañía y cariño sincero. Jesús nos invita a descubrir que amar es mucho más que pronunciar palabras hermosas. Es una decisión que se manifiesta en nuestra manera de vivir."
+   ],
+   "pasos": [
+    "Imaginá que tenés una caja de regalo vacía.",
+    "Escribí cinco regalos espirituales que podrías ofrecer a las personas que amás.",
+    "Elegí uno que hayas descuidado recientemente.",
+    "Pensá en una persona que podría beneficiarse de ese gesto.",
+    "Escribí cómo y cuándo lo pondrás en práctica."
+   ],
+   "nota": null,
+   "preguntas": "¿Qué regalo de amor puedo ofrecer que no dependa del dinero?",
+   "oracion": [
+    "Señor Jesús, enseñame a amar con acciones sinceras. Que mi presencia, mis palabras y mis decisiones sean regalos de tu amor para los demás. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Dedicar tiempo de calidad a una persona importante sin utilizar el teléfono ni realizar otras actividades.",
+   "control": {
+    "tipo": "lista",
+    "n": 5
+   }
+  },
+  {
+   "dia": 24,
+   "fecha": "2026-12-22",
+   "diaSemana": "Martes",
+   "etapa": 5,
+   "dinamica": "Mi Magníficat personal",
+   "celebracion": null,
+   "objetivo": "Reconocer la acción de Dios en la propia historia y expresar gratitud.",
+   "cita": "Lucas 1,46-56",
+   "meditacion": [
+    "María proclama la grandeza de Dios al reconocer las maravillas que Él ha realizado en su vida. Su canto de alabanza nos invita a mirar nuestra historia con gratitud. Aunque no todos nuestros deseos se hayan cumplido, podemos reconocer personas, experiencias y oportunidades que han sido verdaderas bendiciones."
+   ],
+   "pasos": [
+    "Leé pausadamente el Magníficat de María.",
+    "Escribí cinco acontecimientos de este año por los que deseás agradecer.",
+    "Recordá una dificultad en la que encontraste apoyo o fortaleza.",
+    "Completá las frases: «Mi alma agradece al Señor por...» y «Dios me ha acompañado cuando...».",
+    "Redactá una oración personal de agradecimiento de cinco líneas."
+   ],
+   "nota": null,
+   "preguntas": "¿Qué maravillas ha realizado Dios en mi vida que necesito reconocer?",
+   "oracion": [
+    "Padre celestial, gracias por tu presencia a lo largo de mi historia. Que nunca pierda la capacidad de reconocer tus bendiciones y compartirlas con los demás. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Compartir con alguien una bendición que hayas recibido y agradecer a Dios por ella.",
+   "control": {
+    "tipo": "lista",
+    "n": 5
+   }
+  },
+  {
+   "dia": 25,
+   "fecha": "2026-12-23",
+   "diaSemana": "Miércoles",
+   "etapa": 5,
+   "dinamica": "Mi carta al Niño Jesús",
+   "celebracion": null,
+   "objetivo": "Integrar los aprendizajes del retiro y establecer un compromiso espiritual para la Navidad y el año siguiente.",
+   "cita": "Lucas 1,57-66",
+   "meditacion": [
+    "Estamos llegando al final de nuestro camino de Adviento. Durante estos veinticinco días hemos reconocido nuestras emociones, examinado nuestra historia, presentado nuestras heridas ante Dios y recuperado la esperanza.",
+    "Ahora llega el momento de preparar nuestro regalo más importante para Jesús: un corazón sincero y dispuesto a seguir creciendo.",
+    "Quizá no hemos resuelto todas nuestras dificultades. Tal vez todavía existen preocupaciones, preguntas o situaciones que requieren tiempo.",
+    "Pero hemos dado un paso importante: detenernos para escuchar a Dios y reconocer nuestra propia vida.",
+    "La Navidad no representa el final de nuestra transformación espiritual. Es una invitación a continuar caminando con Jesús cada día."
+   ],
+   "pasos": [
+    "Buscá un lugar tranquilo y colocá una imagen del Niño Jesús frente a vos.",
+    "Recordá los momentos más significativos de este retiro.",
+    "Escribí tres cosas que descubriste sobre vos mismo.",
+    "Identificá una preocupación que deseás confiar a Dios.",
+    "Redactá una carta al Niño Jesús que incluya agradecimiento, petición y compromiso.",
+    "Elegí una acción concreta que mantendrás después de Navidad.",
+    "Terminá leyendo tu carta en silencio y rezando un padrenuestro."
+   ],
+   "nota": null,
+   "preguntas": "¿Qué ha cambiado en mi corazón durante estos veinticinco días?",
+   "oracion": [
+    "Niño Jesús, hoy llego al final de este camino de Adviento.",
+    "Durante estos días he abierto mi corazón para reconocer mis alegrías, mis dificultades, mis heridas y mis esperanzas.",
+    "Gracias por acompañarme en cada momento.",
+    "Te entrego mi pasado, con todo aquello que he aprendido.",
+    "Te confío mi presente, con sus responsabilidades y preocupaciones.",
+    "Y pongo en tus manos mi futuro, con los sueños que todavía deseo construir.",
+    "Ayudame a vivir con mayor serenidad, a reconocer mi dignidad y a tratar a los demás con respeto y misericordia.",
+    "Que la esperanza ilumine mis pensamientos, que la paz acompañe mis decisiones, que la alegría fortalezca mi espíritu y que el amor transforme mis acciones.",
+    "Cuando llegue la Navidad, encontrá en mí un corazón dispuesto a recibirte.",
+    "Ven, Señor Jesús. Quédate conmigo y enseñame a vivir cada día en tu amor. Amén."
+   ],
+   "oracionEsFinal": true,
+   "compromiso": "Escribir y conservar tu carta al Niño Jesús y elegir un propósito espiritual que continuarás practicando después de Navidad.",
+   "control": {
+    "tipo": "carta"
+   }
+  }
+ ],
+ "oracionFinal": [
+  "Niño Jesús, hoy llego al final de este camino de Adviento.",
+  "Durante estos días he abierto mi corazón para reconocer mis alegrías, mis dificultades, mis heridas y mis esperanzas.",
+  "Gracias por acompañarme en cada momento.",
+  "Te entrego mi pasado, con todo aquello que he aprendido.",
+  "Te confío mi presente, con sus responsabilidades y preocupaciones.",
+  "Y pongo en tus manos mi futuro, con los sueños que todavía deseo construir.",
+  "Ayudame a vivir con mayor serenidad, a reconocer mi dignidad y a tratar a los demás con respeto y misericordia.",
+  "Que la esperanza ilumine mis pensamientos, que la paz acompañe mis decisiones, que la alegría fortalezca mi espíritu y que el amor transforme mis acciones.",
+  "Cuando llegue la Navidad, encontrá en mí un corazón dispuesto a recibirte.",
+  "Ven, Señor Jesús. Quédate conmigo y enseñame a vivir cada día en tu amor. Amén."
+ ],
+ "clave": "personal",
+ "nombre": "Volver a Belén",
+ "subtitulo": "25 días para sanar el corazón y encontrarse con Jesús",
+ "boton": "Marcar día como completado",
+ "tipoPreguntas": "Pregunta para el diario"
+}

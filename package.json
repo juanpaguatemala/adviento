@@ -1,0 +1,16 @@
+{
+  "name": "adviento-biencatolicos",
+  "version": "1.0.0",
+  "private": true,
+  "description": "App de Adviento 2026 de BienCatólicos.com",
+  "type": "module",
+  "scripts": {
+    "datos": "python3 scripts/convertir.py",
+    "dev": "npx vercel dev"
+  },
+  "dependencies": {
+    "node-html-parser": "^6.1.13",
+    "sanitize-html": "^2.13.0"
+  },
+  "engines": { "node": ">=18" }
+}

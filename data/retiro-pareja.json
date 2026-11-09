@@ -1,0 +1,872 @@
+{
+ "etapas": [
+  {
+   "n": 1,
+   "nombre": "Volver a encontrarnos",
+   "lema": "29 de noviembre al 3 de diciembre · Reconocer el valor de nuestra relación"
+  },
+  {
+   "n": 2,
+   "nombre": "Construir una comunicación que dé paz",
+   "lema": "4 al 8 de diciembre · Palabras, emociones, desacuerdos y confianza"
+  },
+  {
+   "n": 3,
+   "nombre": "Sanar lo que necesita atención",
+   "lema": "9 al 13 de diciembre · Heridas, límites, reparación y misericordia"
+  },
+  {
+   "n": 4,
+   "nombre": "Cultivar un amor que se demuestra",
+   "lema": "14 al 18 de diciembre · Gratitud, tiempo, servicio, confianza y proyectos"
+  },
+  {
+   "n": 5,
+   "nombre": "Preparar nuestro amor para recibir a Jesús",
+   "lema": "19 al 23 de diciembre · Fe, compromiso, servicio y Navidad"
+  }
+ ],
+ "dias": [
+  {
+   "dia": 1,
+   "fecha": "2026-11-29",
+   "diaSemana": "Domingo",
+   "etapa": 1,
+   "dinamica": "Encender nuevamente nuestra luz",
+   "celebracion": null,
+   "objetivo": "Iniciar el Adviento reconociendo las esperanzas y necesidades de cada integrante de la pareja.",
+   "cita": "Romanos 15,13",
+   "meditacion": [
+    "Toda relación atraviesa diferentes etapas. Algunas están llenas de entusiasmo; otras requieren paciencia, decisiones difíciles y esfuerzos conscientes. El Adviento nos recuerda que siempre podemos abrir espacios para la esperanza. Caminar juntos no significa tener las mismas emociones o necesidades, sino reconocer la dignidad de ambos y buscar el bien mutuo. Hoy invitamos a Jesús a iluminar nuestra manera de amar."
+   ],
+   "pasos": [
+    "Preparar una vela de Adviento o una imagen de Jesús.",
+    "Sentarse frente a frente en un lugar tranquilo.",
+    "Cada persona completa: «Durante este Adviento espero que nuestra relación pueda...».",
+    "Compartir las respuestas sin interrumpirse.",
+    "Identificar una esperanza que ambos puedan trabajar juntos.",
+    "Encender la primera vela de Adviento y rezar una oración."
+   ],
+   "nota": null,
+   "preguntas": "¿Qué deseamos fortalecer en nuestra relación? ¿Qué necesita cada uno para sentirse respetado y acompañado?",
+   "oracion": [
+    "Señor Jesús, iluminá nuestro camino. Ayudanos a construir una relación donde existan esperanza, respeto, confianza y amor sincero. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Reservar quince minutos para conversar sin teléfonos ni distracciones.",
+   "control": {
+    "tipo": "lista",
+    "n": 3
+   }
+  },
+  {
+   "dia": 2,
+   "fecha": "2026-11-30",
+   "diaSemana": "Lunes",
+   "etapa": 1,
+   "dinamica": "Recordar por qué nos elegimos",
+   "celebracion": null,
+   "objetivo": "Reconocer las cualidades y experiencias positivas que dieron origen a la relación.",
+   "cita": "Filipenses 1,3-6",
+   "meditacion": [
+    "Con el paso del tiempo, las responsabilidades y preocupaciones pueden hacer que olvidemos los momentos que nos acercaron. Recordar lo bueno no significa negar las dificultades actuales. Significa reconocer que nuestra historia contiene experiencias valiosas y que podemos aprender de ellas. La gratitud nos ayuda a mirar al otro con mayor comprensión."
+   ],
+   "pasos": [
+    "Cada persona recuerda tres momentos agradables de la relación.",
+    "Elegir una fotografía, canción u objeto que represente un recuerdo.",
+    "Compartir qué hizo especial aquel momento.",
+    "Mencionar dos cualidades que admiraban del otro y que todavía reconocen.",
+    "Escribir juntos un recuerdo que desean conservar.",
+    "Agradecer a Dios por las experiencias buenas compartidas."
+   ],
+   "nota": null,
+   "preguntas": "¿Qué nos hizo acercarnos? ¿Qué cualidades seguimos valorando?",
+   "oracion": [
+    "Padre bueno, gracias por los momentos de alegría y por las experiencias que nos han permitido conocernos. Enseñanos a valorar lo bueno con sinceridad. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Compartir un recuerdo bonito y expresar gratitud por él.",
+   "control": {
+    "tipo": "lista",
+    "n": 3
+   }
+  },
+  {
+   "dia": 3,
+   "fecha": "2026-12-01",
+   "diaSemana": "Martes",
+   "etapa": 1,
+   "dinamica": "El mapa de nuestras necesidades",
+   "celebracion": null,
+   "objetivo": "Identificar las necesidades afectivas y relacionales de cada persona.",
+   "cita": "Filipenses 2,3-4",
+   "meditacion": [
+    "Cada persona expresa y recibe cariño de maneras diferentes. Algunas valoran especialmente las palabras, otras el tiempo compartido, la ayuda cotidiana o las muestras de afecto. Ninguna necesidad debe ser ridiculizada o utilizada para controlar al otro. El amor crece cuando podemos expresar lo que sentimos y escuchar lo que la otra persona necesita, respetando también sus límites."
+   ],
+   "pasos": [
+    "Cada persona escribe cinco cosas que le ayudan a sentirse querida.",
+    "Ordenarlas de mayor a menor importancia.",
+    "Compartir las respuestas utilizando la frase «Para mí es importante...».",
+    "Escuchar sin corregir ni discutir las necesidades expresadas.",
+    "Identificar una necesidad de cada persona que pueda atenderse de manera realista.",
+    "Acordar un gesto voluntario de cariño para la semana."
+   ],
+   "nota": null,
+   "preguntas": "¿Qué me ayuda a sentirme amado? ¿Qué necesito comprender mejor de mi pareja?",
+   "oracion": [
+    "Señor, enseñanos a escuchar nuestras necesidades con respeto y a expresar nuestro cariño de manera libre y sincera. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Realizar un gesto de cariño que el otro haya expresado como importante, sin convertirlo en una obligación.",
+   "control": {
+    "tipo": "lista",
+    "n": 5
+   }
+  },
+  {
+   "dia": 4,
+   "fecha": "2026-12-02",
+   "diaSemana": "Miércoles",
+   "etapa": 1,
+   "dinamica": "Escuchar con el corazón",
+   "celebracion": null,
+   "objetivo": "Practicar la escucha activa y evitar respuestas defensivas.",
+   "cita": "Santiago 1,19",
+   "meditacion": [
+    "Escuchar no significa simplemente esperar nuestro turno para hablar. Significa prestar atención a lo que la otra persona desea expresar. Muchas discusiones se agravan porque respondemos antes de comprender. Jesús nos invita a cultivar la paciencia y a reconocer que la experiencia del otro merece respeto, aunque no siempre coincidamos."
+   ],
+   "pasos": [
+    "Elegir un tema cotidiano que no genere tensión importante.",
+    "Una persona habla durante tres minutos sobre cómo vivió su día.",
+    "La otra escucha sin interrumpir.",
+    "Quien escuchó resume: «Lo que entiendo que sentiste fue...».",
+    "La primera persona confirma o aclara lo expresado.",
+    "Intercambiar los papeles."
+   ],
+   "nota": null,
+   "preguntas": "¿Me siento escuchado cuando hablo? ¿Qué puedo mejorar en mi manera de prestar atención?",
+   "oracion": [
+    "Jesús, danos paciencia para escuchar y humildad para comprender antes de responder. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Escuchar una conversación completa sin interrumpir ni utilizar el teléfono.",
+   "control": {
+    "tipo": "lista",
+    "n": 3
+   }
+  },
+  {
+   "dia": 5,
+   "fecha": "2026-12-03",
+   "diaSemana": "Jueves",
+   "etapa": 1,
+   "dinamica": "Nuestro jardín del amor",
+   "celebracion": null,
+   "objetivo": "Reconocer que una relación necesita atención y cuidado constante.",
+   "cita": "Colosenses 3,12-14",
+   "meditacion": [
+    "Una relación se parece a un jardín. Necesita tiempo, atención y cuidados para crecer. La confianza, el respeto, la comunicación y la ternura son como plantas que debemos cultivar. También existen hábitos que pueden perjudicarla. Jesús nos invita a construir un amor que se manifieste en acciones concretas y responsables."
+   ],
+   "pasos": [
+    "Dibujar un jardín con cinco plantas.",
+    "Asignar a cada planta un valor: confianza, respeto, comunicación, ternura y compromiso.",
+    "Cada persona identifica qué valor considera más fuerte.",
+    "Reconocer cuál necesita mayor atención.",
+    "Escribir dos acciones para cuidar ese aspecto.",
+    "Elegir una acción que ambos acepten practicar."
+   ],
+   "nota": null,
+   "preguntas": "¿Qué estamos cultivando bien? ¿Qué necesita más atención?",
+   "oracion": [
+    "Señor, ayudanos a cuidar nuestra relación con paciencia, responsabilidad y amor. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Practicar una acción concreta para fortalecer el valor elegido.",
+   "control": {
+    "tipo": "jardin"
+   }
+  },
+  {
+   "dia": 6,
+   "fecha": "2026-12-04",
+   "diaSemana": "Viernes",
+   "etapa": 2,
+   "dinamica": "El semáforo de nuestra comunicación",
+   "celebracion": null,
+   "objetivo": "Identificar las formas de comunicación que fortalecen o perjudican la relación.",
+   "cita": "Efesios 4,29",
+   "meditacion": [
+    "Las palabras pueden acercarnos o crear distancias. En una relación, no basta con expresar lo que sentimos; también importa cómo lo hacemos. El enojo es una emoción humana, pero no justifica insultos, amenazas ni humillaciones. El amor necesita una comunicación donde ambos puedan expresarse sin miedo."
+   ],
+   "pasos": [
+    "Dibujar un semáforo con los colores rojo, amarillo y verde.",
+    "En el rojo, escribir conductas que deben detenerse: insultar, gritar, amenazar, burlarse o intimidar.",
+    "En el amarillo, identificar señales de tensión: elevar el tono, interrumpir, hablar impulsivamente.",
+    "En el verde, escribir conductas saludables: escuchar, pedir una pausa, expresar necesidades y hablar con respeto.",
+    "Cada persona identifica una conducta propia que desea mejorar.",
+    "Acordar que cualquier conversación puede detenerse cuando deje de ser respetuosa."
+   ],
+   "nota": null,
+   "preguntas": "¿Qué palabras nos ayudan a sentirnos seguros? ¿Qué podemos hacer cuando aumenta la tensión?",
+   "oracion": [
+    "Señor Jesús, que nuestras palabras nunca sean instrumentos de daño. Enseñanos a hablar con verdad, serenidad y respeto. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Practicar la frase «Necesito una pausa; podemos retomar esta conversación cuando estemos tranquilos».",
+   "control": {
+    "tipo": "semaforo"
+   }
+  },
+  {
+   "dia": 7,
+   "fecha": "2026-12-05",
+   "diaSemana": "Sábado",
+   "etapa": 2,
+   "dinamica": "Detrás de mis emociones",
+   "celebracion": null,
+   "objetivo": "Aprender a reconocer y expresar emociones sin responsabilizar al otro de regularlas.",
+   "cita": "Salmo 62,9",
+   "meditacion": [
+    "En una relación podemos experimentar alegría, tristeza, miedo, frustración y enojo. Ninguna emoción nos convierte en malas personas. Sin embargo, somos responsables de cómo actuamos cuando la sentimos. Expresar una necesidad con sinceridad permite que nuestra pareja nos comprenda mejor, sin exigirle que resuelva todo nuestro mundo interior."
+   ],
+   "pasos": [
+    "Cada persona elige tres emociones que haya sentido durante la semana.",
+    "Asignarles una intensidad del 1 al 10.",
+    "Identificar qué situaciones pudieron influir en ellas.",
+    "Completar: «Cuando me siento..., necesito...».",
+    "Escuchar las respuestas sin corregirlas.",
+    "Identificar una estrategia personal para manejar emociones intensas de manera saludable."
+   ],
+   "nota": null,
+   "preguntas": "¿Qué emoción me cuesta expresar? ¿Qué puedo hacer para manejarla sin lastimar?",
+   "oracion": [
+    "Señor, ayudanos a comprender nuestras emociones y a responder con responsabilidad y misericordia. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Expresar una emoción mediante palabras respetuosas, sin acusaciones ni exigencias.",
+   "control": {
+    "tipo": "escala",
+    "libre": 3
+   }
+  },
+  {
+   "dia": 8,
+   "fecha": "2026-12-06",
+   "diaSemana": "Domingo",
+   "etapa": 2,
+   "dinamica": "Construir un puente de paz",
+   "celebracion": null,
+   "objetivo": "Aprender a abordar los desacuerdos sin convertirlos en enfrentamientos.",
+   "cita": "Romanos 12,18",
+   "meditacion": [
+    "Amar no significa pensar siempre igual. Dos personas pueden tener necesidades, opiniones y expectativas diferentes. La paz no consiste en que una de ellas renuncie constantemente a su voz, sino en buscar acuerdos justos y respetuosos. El Adviento nos invita a preparar el camino del Señor también en nuestra forma de resolver diferencias."
+   ],
+   "pasos": [
+    "Dibujar dos orillas separadas por un río.",
+    "Cada persona escribe en una orilla una preferencia distinta sobre un asunto cotidiano.",
+    "Dibujar un puente formado por cuatro tablas: escuchar, comprender, proponer y acordar.",
+    "Buscar dos soluciones posibles.",
+    "Elegir una alternativa aceptable para ambos, sin presiones.",
+    "Encender la segunda vela de Adviento y pedir por la paz."
+   ],
+   "nota": null,
+   "preguntas": "¿Podemos estar en desacuerdo sin sentirnos enemigos? ¿Qué acuerdos necesitan mayor claridad?",
+   "oracion": [
+    "Jesús, Príncipe de la Paz, enseñanos a resolver nuestras diferencias sin perder el respeto ni la ternura. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Resolver juntos una diferencia pequeña mediante el diálogo.",
+   "control": {
+    "tipo": "puente"
+   }
+  },
+  {
+   "dia": 9,
+   "fecha": "2026-12-07",
+   "diaSemana": "Lunes",
+   "etapa": 2,
+   "dinamica": "El idioma de la gratitud",
+   "celebracion": null,
+   "objetivo": "Recuperar el reconocimiento de los esfuerzos y gestos positivos.",
+   "cita": "1 Tesalonicenses 5,18",
+   "meditacion": [
+    "Con la rutina, algunas muestras de cariño comienzan a parecernos obligaciones. Dejamos de agradecer la ayuda, la compañía o los detalles cotidianos. La gratitud no elimina los problemas, pero nos permite reconocer lo bueno sin darlo por sentado. Una relación saludable necesita que ambas personas se sientan valoradas."
+   ],
+   "pasos": [
+    "Cada persona escribe cinco cosas que agradece de la otra.",
+    "Elegir tres que correspondan a acciones concretas.",
+    "Compartirlas comenzando con «Gracias por...».",
+    "Escuchar sin minimizar los agradecimientos.",
+    "Identificar un gesto positivo que suele pasar desapercibido.",
+    "Escribir una pequeña nota de reconocimiento."
+   ],
+   "nota": null,
+   "preguntas": "¿Qué esfuerzo de mi pareja he dejado de agradecer? ¿Qué me gustaría que reconociera de mí?",
+   "oracion": [
+    "Padre bueno, danos ojos para reconocer el bien y palabras para agradecerlo sinceramente. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Expresar tres agradecimientos concretos durante el día.",
+   "control": {
+    "tipo": "lista",
+    "n": 5
+   }
+  },
+  {
+   "dia": 10,
+   "fecha": "2026-12-08",
+   "diaSemana": "Martes",
+   "etapa": 2,
+   "dinamica": "Aprender del sí de María",
+   "celebracion": "Solemnidad de la Inmaculada Concepción",
+   "objetivo": "Reflexionar sobre la confianza en Dios y las decisiones libres y responsables dentro de la relación.",
+   "cita": "Lucas 1,26-38",
+   "meditacion": [
+    "María respondió al llamado de Dios con fe y libertad. Su ejemplo nos enseña que el amor verdadero no nace de la imposición, sino de una entrega consciente. Una pareja puede discernir sus decisiones escuchando, orando y reconociendo la dignidad de ambos. Decir sí al amor también implica decir sí a la verdad, al respeto y a la responsabilidad."
+   ],
+   "pasos": [
+    "Colocar una imagen de la Virgen María.",
+    "Leer juntos el relato de la Anunciación.",
+    "Cada persona escribe tres valores que desea vivir en la relación.",
+    "Identificar cuáles comparten.",
+    "Completar individualmente: «Hoy quiero decir sí a...» y «Necesito decir no a...».",
+    "Compartir únicamente lo que cada uno desee y rezar un avemaría."
+   ],
+   "nota": null,
+   "preguntas": "¿Qué significa elegirnos libremente? ¿Qué decisiones nos ayudan a crecer en el amor de Dios?",
+   "oracion": [
+    "María Inmaculada, acompañanos para que nuestras decisiones nazcan de la verdad, la confianza y el respeto. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Practicar una decisión que fortalezca la dignidad y la libertad de ambos.",
+   "control": {
+    "tipo": "lista",
+    "n": 3
+   }
+  },
+  {
+   "dia": 11,
+   "fecha": "2026-12-09",
+   "diaSemana": "Miércoles",
+   "etapa": 3,
+   "dinamica": "Reconocer nuestras heridas",
+   "celebracion": null,
+   "objetivo": "Comprender que cada persona llega a la relación con una historia que merece respeto.",
+   "cita": "Salmo 147,3",
+   "meditacion": [
+    "Todos tenemos experiencias que han influido en nuestra manera de amar. Algunas nos enseñaron confianza; otras dejaron temores o inseguridades. Comprender la historia de nuestra pareja puede ayudarnos a desarrollar empatía, pero ninguna herida justifica hacer daño. Jesús nos invita a acercarnos a nuestras fragilidades con misericordia y responsabilidad."
+   ],
+   "pasos": [
+    "Cada persona dibuja un corazón.",
+    "Escribir en privado una experiencia que haya influido en su manera de relacionarse.",
+    "Identificar qué emoción o necesidad permanece asociada a ella.",
+    "Anotar qué ayuda a sentirse seguro actualmente.",
+    "Compartir solamente lo que resulte cómodo.",
+    "Concluir con una oración silenciosa por la sanación personal de ambos."
+   ],
+   "nota": null,
+   "preguntas": "¿Qué necesito para sentirme seguro emocionalmente? ¿Cómo puedo acompañar sin intentar resolver la historia del otro?",
+   "oracion": [
+    "Jesús misericordioso, acompañá nuestras heridas y ayudanos a construir una relación donde podamos crecer sin hacernos daño. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Respetar una necesidad emocional o un límite expresado por el otro.",
+   "control": {
+    "tipo": "lista",
+    "n": 3
+   }
+  },
+  {
+   "dia": 12,
+   "fecha": "2026-12-10",
+   "diaSemana": "Jueves",
+   "etapa": 3,
+   "dinamica": "Lo que necesito expresar",
+   "celebracion": null,
+   "objetivo": "Practicar la comunicación honesta de necesidades y preocupaciones.",
+   "cita": "Efesios 4,15",
+   "meditacion": [
+    "Guardar indefinidamente nuestras necesidades puede producir tristeza y resentimiento. Pero expresarlas mediante reproches o amenazas también puede perjudicar la relación. La verdad necesita estar acompañada de caridad. Una petición sincera permite que el otro conozca nuestros sentimientos sin convertir el cariño en una obligación."
+   ],
+   "pasos": [
+    "Cada persona completa en privado: «Últimamente me he sentido...».",
+    "Escribir una necesidad relacionada con ese sentimiento.",
+    "Transformarla en una petición concreta y respetuosa.",
+    "Practicar la fórmula: «Cuando sucede..., me siento..., y me gustaría...».",
+    "Compartir la petición únicamente si ambos se sienten tranquilos.",
+    "Escuchar y responder con honestidad, sin prometer algo que no se puede cumplir."
+   ],
+   "nota": null,
+   "preguntas": "¿Qué necesidad me cuesta expresar? ¿Cómo podemos pedir cariño sin imponerlo?",
+   "oracion": [
+    "Señor, danos valentía para hablar con sinceridad y humildad para escuchar con amor. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Expresar una necesidad mediante una petición clara y respetuosa.",
+   "control": {
+    "tipo": "lista",
+    "n": 3
+   }
+  },
+  {
+   "dia": 13,
+   "fecha": "2026-12-11",
+   "diaSemana": "Viernes",
+   "etapa": 3,
+   "dinamica": "Los límites que protegen el amor",
+   "celebracion": null,
+   "objetivo": "Reconocer los límites personales como elementos necesarios para una relación sana.",
+   "cita": "Mateo 5,37",
+   "meditacion": [
+    "El amor cristiano reconoce la dignidad y la libertad de cada persona. Los límites no son castigos ni demostraciones de falta de cariño. Son expresiones de responsabilidad que nos permiten cuidar nuestro bienestar y respetar el de los demás. Una relación sana no necesita vigilancia, amenazas o renuncias forzadas para demostrar amor."
+   ],
+   "pasos": [
+    "Dibujar dos círculos que se encuentran parcialmente.",
+    "En el primero, cada persona escribe necesidades personales: descanso, privacidad, amistades, oración o tiempo propio.",
+    "En el segundo, escribir necesidades de la otra persona, según lo que ella misma exprese.",
+    "En la intersección, anotar responsabilidades y espacios compartidos.",
+    "Cada integrante identifica un límite propio que desea comunicar.",
+    "Practicar una frase respetuosa para expresarlo y otra para recibirlo."
+   ],
+   "nota": null,
+   "preguntas": "¿Podemos decir no sin temor a represalias? ¿Cómo demostramos respeto por los espacios personales?",
+   "oracion": [
+    "Jesús, enseñanos a amar con libertad, responsabilidad y respeto por la dignidad de cada uno. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Respetar un límite personal sin presionar para cambiarlo.",
+   "control": {
+    "tipo": "circulos"
+   }
+  },
+  {
+   "dia": 14,
+   "fecha": "2026-12-12",
+   "diaSemana": "Sábado",
+   "etapa": 3,
+   "dinamica": "Bajo el manto de María",
+   "celebracion": "Nuestra Señora de Guadalupe",
+   "objetivo": "Confiar a la intercesión de María las necesidades personales y espirituales de la pareja.",
+   "cita": "Juan 19,25-27",
+   "meditacion": [
+    "María nos acompaña maternalmente y nos conduce hacia Jesús. En nuestras relaciones podemos experimentar momentos de alegría y también dificultades que requieren paciencia, discernimiento y ayuda. La oración no reemplaza nuestras responsabilidades, pero puede fortalecernos para actuar con mayor sabiduría y misericordia."
+   ],
+   "pasos": [
+    "Colocar una imagen de Nuestra Señora de Guadalupe.",
+    "Preparar dos tarjetas individuales.",
+    "Cada persona escribe una intención por su propio crecimiento espiritual.",
+    "Agregar una intención por el bienestar de la otra persona.",
+    "Compartirlas voluntariamente, sin exigir explicaciones.",
+    "Rezar un avemaría y encomendar a María el camino de ambos."
+   ],
+   "nota": null,
+   "preguntas": "¿Qué deseamos pedirle a Dios por nuestra relación? ¿Cómo podemos apoyarnos espiritualmente sin imponernos?",
+   "oracion": [
+    "Virgen de Guadalupe, acompañanos con tu ternura. Intercedé para que nuestras decisiones reflejen la verdad y el amor de Jesús. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Rezar por el bienestar de la otra persona y ofrecerle un gesto de consideración.",
+   "control": {
+    "tipo": "lista",
+    "n": 3
+   }
+  },
+  {
+   "dia": 15,
+   "fecha": "2026-12-13",
+   "diaSemana": "Domingo",
+   "etapa": 3,
+   "dinamica": "La puerta de la misericordia",
+   "celebracion": "Tercer domingo de Adviento · Gaudete",
+   "objetivo": "Comprender que pedir perdón requiere responsabilidad y que la reconciliación necesita cambios reales.",
+   "cita": "Colosenses 3,12-15",
+   "meditacion": [
+    "Todos podemos equivocarnos. Reconocer una falta y pedir perdón es una expresión de humildad. Sin embargo, una disculpa pierde su sentido cuando se utiliza para evitar consecuencias y luego repetir el mismo daño. La misericordia cristiana nos llama a la conversión verdadera. Perdonar puede requerir tiempo y no obliga a restablecer una relación que no es segura."
+   ],
+   "pasos": [
+    "Dibujar una puerta con cuatro palabras: reconocer, responsabilizarse, reparar y cambiar.",
+    "Elegir individualmente una falta cotidiana propia que se desee corregir.",
+    "Escribir qué consecuencias tuvo esa conducta.",
+    "Definir una reparación posible.",
+    "Formular un compromiso verificable de cambio.",
+    "Orar por la humildad y la perseverancia, sin exigir perdón ni reconciliación inmediata."
+   ],
+   "nota": null,
+   "preguntas": "¿Cómo se demuestra un arrepentimiento sincero? ¿Qué diferencia existe entre pedir perdón y reparar el daño?",
+   "oracion": [
+    "Señor misericordioso, ayudanos a reconocer nuestras faltas y a transformar nuestras acciones con responsabilidad. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Corregir una conducta propia y realizar una reparación concreta cuando corresponda.",
+   "control": {
+    "tipo": "puerta"
+   }
+  },
+  {
+   "dia": 16,
+   "fecha": "2026-12-14",
+   "diaSemana": "Lunes",
+   "etapa": 4,
+   "dinamica": "El árbol de nuestra gratitud",
+   "celebracion": null,
+   "objetivo": "Reconocer las experiencias y acciones positivas compartidas.",
+   "cita": "Filipenses 1,3-4",
+   "meditacion": [
+    "La gratitud nos ayuda a reconocer el bien que existe en nuestra historia. No significa ignorar problemas ni utilizar los recuerdos felices para justificar situaciones dolorosas. Significa apreciar sinceramente los momentos de bondad y las acciones que fortalecen nuestra relación. Agradecer es una manera de cuidar aquello que merece permanecer."
+   ],
+   "pasos": [
+    "Dibujar un árbol con raíces, tronco y ramas.",
+    "En las raíces, escribir valores que han sostenido la relación.",
+    "En el tronco, anotar experiencias importantes compartidas.",
+    "En las ramas, escribir acciones positivas realizadas durante el año.",
+    "Cada persona agrega una hoja con algo que agradece del otro.",
+    "Contemplar el árbol y dar gracias a Dios."
+   ],
+   "nota": null,
+   "preguntas": "¿Qué experiencias nos han permitido crecer? ¿Qué gesto de amor agradezco especialmente?",
+   "oracion": [
+    "Padre bueno, gracias por las bendiciones compartidas. Ayudanos a valorar lo bueno y a cultivar relaciones basadas en la verdad. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Expresar un agradecimiento concreto y sincero.",
+   "control": {
+    "tipo": "arbol"
+   }
+  },
+  {
+   "dia": 17,
+   "fecha": "2026-12-15",
+   "diaSemana": "Martes",
+   "etapa": 4,
+   "dinamica": "El regalo de nuestra presencia",
+   "celebracion": null,
+   "objetivo": "Reconocer el valor del tiempo de calidad y la atención mutua.",
+   "cita": "Romanos 12,10",
+   "meditacion": [
+    "En medio del trabajo, las responsabilidades y las pantallas, podemos olvidar que el amor necesita momentos de encuentro. Estar presentes no significa permanecer juntos a toda hora, sino ofrecer atención sincera cuando decidimos compartir. También necesitamos respetar los tiempos personales de descanso y autonomía."
+   ],
+   "pasos": [
+    "Cada persona escribe tres actividades sencillas que disfruta compartir.",
+    "Intercambiar las propuestas.",
+    "Elegir una actividad que resulte agradable para ambos.",
+    "Establecer un tiempo concreto para realizarla.",
+    "Guardar los teléfonos durante ese momento.",
+    "Al terminar, compartir qué disfrutó cada uno."
+   ],
+   "nota": null,
+   "preguntas": "¿Qué momentos compartidos valoramos más? ¿Cómo podemos equilibrar tiempo juntos y tiempo personal?",
+   "oracion": [
+    "Señor Jesús, enseñanos a estar presentes con cariño y a respetar nuestros espacios individuales. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Compartir al menos veinte minutos de atención mutua, sin distracciones.",
+   "control": {
+    "tipo": "lista",
+    "n": 3
+   }
+  },
+  {
+   "dia": 18,
+   "fecha": "2026-12-16",
+   "diaSemana": "Miércoles",
+   "etapa": 4,
+   "dinamica": "Las manos que construyen",
+   "celebracion": null,
+   "objetivo": "Promover la colaboración y el reconocimiento de las responsabilidades compartidas.",
+   "cita": "Gálatas 6,2",
+   "meditacion": [
+    "Una relación necesita más que palabras. Las acciones cotidianas demuestran responsabilidad, consideración y compromiso. Cuando una sola persona debe encargarse continuamente de todas las necesidades, puede surgir agotamiento. El servicio cristiano no consiste en que alguien se sacrifique indefinidamente, sino en aprender a colaborar de manera justa."
+   ],
+   "pasos": [
+    "Cada persona dibuja el contorno de su mano.",
+    "En los dedos, escribir cinco responsabilidades que asume habitualmente.",
+    "Comparar las listas sin competir por quién hace más.",
+    "Reconocer tareas visibles e invisibles.",
+    "Identificar una responsabilidad que podría distribuirse mejor.",
+    "Establecer un acuerdo realista de colaboración."
+   ],
+   "nota": null,
+   "preguntas": "¿Nos sentimos apoyados en nuestras responsabilidades? ¿Qué tarea necesita una distribución más equilibrada?",
+   "oracion": [
+    "Jesús, enseñanos a servirnos mutuamente con generosidad, justicia y respeto. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Realizar una acción de ayuda concreta, sin esperar reconocimiento.",
+   "control": {
+    "tipo": "lista",
+    "n": 5
+   }
+  },
+  {
+   "dia": 19,
+   "fecha": "2026-12-17",
+   "diaSemana": "Jueves",
+   "etapa": 4,
+   "dinamica": "Los ladrillos de la confianza",
+   "celebracion": null,
+   "objetivo": "Identificar conductas que permiten construir y conservar la confianza.",
+   "cita": "Lucas 16,10",
+   "meditacion": [
+    "La confianza se construye lentamente mediante acciones coherentes. Decir la verdad, cumplir acuerdos, reconocer errores y respetar la privacidad son formas de fortalecerla. Cuando ha existido una ruptura de confianza, no basta con exigir que todo vuelva a ser como antes. La reconstrucción necesita responsabilidad, cambios sostenidos y libertad para decidir."
+   ],
+   "pasos": [
+    "Dibujar una pared formada por seis ladrillos.",
+    "Escribir en ellos: honestidad, coherencia, respeto, responsabilidad, privacidad y cumplimiento de acuerdos.",
+    "Cada persona identifica cuál considera más importante.",
+    "Elegir una conducta concreta que fortalezca ese valor.",
+    "Diferenciar entre transparencia voluntaria y vigilancia o control.",
+    "Establecer un acuerdo respetuoso que ambos puedan cumplir."
+   ],
+   "nota": null,
+   "preguntas": "¿Qué acciones construyen confianza? ¿Cómo distinguimos la confianza del control?",
+   "oracion": [
+    "Señor, ayudanos a vivir con honestidad y coherencia, respetando siempre la libertad y dignidad de cada persona. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Cumplir un acuerdo pequeño y concreto.",
+   "control": {
+    "tipo": "lista",
+    "n": 6,
+    "etiqueta": "Ladrillo"
+   }
+  },
+  {
+   "dia": 20,
+   "fecha": "2026-12-18",
+   "diaSemana": "Viernes",
+   "etapa": 4,
+   "dinamica": "Nuestros sueños y caminos",
+   "celebracion": null,
+   "objetivo": "Dialogar sobre proyectos personales y compartidos, respetando las aspiraciones individuales.",
+   "cita": "Proverbios 16,3",
+   "meditacion": [
+    "Compartir la vida con alguien puede incluir sueños comunes, pero también proyectos individuales. Una relación saludable no exige que una persona abandone su identidad para satisfacer a la otra. Jesús nos invita a discernir nuestras decisiones con prudencia, generosidad y respeto. Caminar juntos significa acompañarnos sin perder nuestra propia dignidad."
+   ],
+   "pasos": [
+    "Dibujar tres caminos: «Mis sueños», «Tus sueños» y «Nuestros sueños».",
+    "Cada persona escribe dos metas personales.",
+    "Identificar dos proyectos que desearían compartir.",
+    "Conversar sobre los recursos y responsabilidades que implican.",
+    "Elegir un proyecto realista que ambos deseen desarrollar.",
+    "Definir un primer paso, sin convertirlo en una obligación unilateral."
+   ],
+   "nota": null,
+   "preguntas": "¿Nos apoyamos en nuestros proyectos individuales? ¿Qué sueño compartido deseamos cultivar?",
+   "oracion": [
+    "Señor, iluminá nuestros proyectos y enseñanos a acompañarnos con libertad, generosidad y responsabilidad. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Apoyar una aspiración personal del otro mediante una acción respetuosa.",
+   "control": {
+    "tipo": "camino"
+   }
+  },
+  {
+   "dia": 21,
+   "fecha": "2026-12-19",
+   "diaSemana": "Sábado",
+   "etapa": 5,
+   "dinamica": "Los regalos que no cuestan dinero",
+   "celebracion": null,
+   "objetivo": "Descubrir expresiones de amor que nacen de la generosidad y no de las posesiones.",
+   "cita": "1 Corintios 13,4-7",
+   "meditacion": [
+    "Durante la Navidad solemos buscar regalos para demostrar cariño. Sin embargo, algunos de los obsequios más valiosos no pueden comprarse: una conversación sincera, un gesto de ternura, una disculpa responsable, una muestra de respeto o un momento de compañía. El amor cristiano se reconoce por sus frutos, no únicamente por sus declaraciones."
+   ],
+   "pasos": [
+    "Dibujar una caja de regalo.",
+    "Cada persona escribe cinco regalos no materiales que puede ofrecer libremente.",
+    "Identificar cuáles son especialmente significativos para el otro.",
+    "Elegir uno que resulte agradable para ambos.",
+    "Escribir una acción concreta para entregarlo.",
+    "Compartir un momento de gratitud."
+   ],
+   "nota": null,
+   "preguntas": "¿Qué gesto de amor valoramos más? ¿Qué diferencia existe entre un regalo libre y una demostración exigida?",
+   "oracion": [
+    "Jesús, enseñanos a amar con acciones sinceras, sin convertir el cariño en una deuda o una obligación. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Ofrecer un gesto de amor libre y desinteresado.",
+   "control": {
+    "tipo": "lista",
+    "n": 5
+   }
+  },
+  {
+   "dia": 22,
+   "fecha": "2026-12-20",
+   "diaSemana": "Domingo",
+   "etapa": 5,
+   "dinamica": "Nuestro amor ante el pesebre",
+   "celebracion": "Cuarto domingo de Adviento",
+   "objetivo": "Reconocer a Jesús como modelo de humildad, servicio y amor.",
+   "cita": "Mateo 1,18-24",
+   "meditacion": [
+    "La Navidad nos recuerda que Dios decidió acercarse a la humanidad desde la sencillez. Jesús no nació rodeado de poder y riquezas, sino en un ambiente humilde donde recibió el cuidado de María y José. Su presencia nos invita a construir relaciones donde el amor se manifieste mediante la protección, la responsabilidad y el respeto."
+   ],
+   "pasos": [
+    "Colocar una imagen del nacimiento de Jesús.",
+    "Encender la cuarta vela de Adviento con precaución.",
+    "Guardar dos minutos de silencio.",
+    "Cada persona escribe tres valores que desea cultivar en su manera de amar.",
+    "Compartir voluntariamente uno de ellos.",
+    "Colocar los compromisos junto al nacimiento y orar."
+   ],
+   "nota": null,
+   "preguntas": "¿Qué podemos aprender del cuidado de María y José? ¿Qué actitudes queremos llevar ante Jesús?",
+   "oracion": [
+    "Niño Jesús, ayudanos a construir un amor humilde, responsable y respetuoso. Que tu presencia ilumine nuestras decisiones. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Realizar una oración juntos, si ambos lo desean, por su crecimiento espiritual.",
+   "control": {
+    "tipo": "lista",
+    "n": 3
+   }
+  },
+  {
+   "dia": 23,
+   "fecha": "2026-12-21",
+   "diaSemana": "Lunes",
+   "etapa": 5,
+   "dinamica": "La visita del amor",
+   "celebracion": null,
+   "objetivo": "Descubrir que el amor de pareja también puede expresarse mediante el servicio a los demás.",
+   "cita": "Lucas 1,39-45",
+   "meditacion": [
+    "María visita a Isabel para compartir su alegría y ofrecerle compañía. Su gesto nos enseña que el amor no debe encerrarnos en nosotros mismos. Una pareja puede convertirse en instrumento de esperanza cuando reconoce las necesidades de familiares, amigos y personas vulnerables. Compartir la vida también puede significar colaborar en una misión de servicio."
+   ],
+   "pasos": [
+    "Leer juntos el relato de la Visitación.",
+    "Cada persona propone una necesidad que haya observado en su entorno.",
+    "Elegir una causa o persona a quien puedan ayudar.",
+    "Identificar qué pueden ofrecer: tiempo, alimentos, compañía o colaboración.",
+    "Organizar una acción sencilla, respetando sus posibilidades.",
+    "Realizarla y agradecer a Dios la oportunidad de servir."
+   ],
+   "nota": null,
+   "preguntas": "¿Cómo podemos compartir el bien con otras personas? ¿Qué causa nos gustaría apoyar?",
+   "oracion": [
+    "Señor Jesús, que nuestro amor no sea indiferente ante las necesidades de los demás. Enseñanos a servir con generosidad. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Realizar una buena acción conjunta en beneficio de otra persona.",
+   "control": {
+    "tipo": "lista",
+    "n": 3
+   }
+  },
+  {
+   "dia": 24,
+   "fecha": "2026-12-22",
+   "diaSemana": "Martes",
+   "etapa": 5,
+   "dinamica": "Nuestro Magníficat de amor",
+   "celebracion": null,
+   "objetivo": "Reconocer con gratitud las experiencias, aprendizajes y bendiciones de la relación.",
+   "cita": "Lucas 1,46-56",
+   "meditacion": [
+    "María reconoce las maravillas que Dios ha realizado en su vida y responde con un canto de gratitud. También nosotros podemos detenernos para reconocer aquello que ha sido bueno, incluso en medio de las dificultades. Agradecer no significa negar heridas ni conflictos; significa mirar nuestra historia con verdad y reconocer los dones que hemos recibido."
+   ],
+   "pasos": [
+    "Leer pausadamente el Magníficat.",
+    "Cada persona escribe tres motivos personales de gratitud por este año.",
+    "Añadir dos experiencias compartidas que considere valiosas.",
+    "Reconocer un aprendizaje importante de la relación.",
+    "Elaborar una breve oración de agradecimiento, si ambos desean hacerlo.",
+    "Leerla juntos o conservarla de manera privada."
+   ],
+   "nota": null,
+   "preguntas": "¿Qué hemos aprendido este año? ¿Qué bendiciones deseamos recordar?",
+   "oracion": [
+    "Padre bueno, gracias por las experiencias que nos han permitido crecer. Ayudanos a reconocer tu presencia y a vivir con mayor gratitud. Amén."
+   ],
+   "oracionEsFinal": false,
+   "compromiso": "Compartir un agradecimiento y una enseñanza que deseen conservar.",
+   "control": {
+    "tipo": "lista",
+    "n": 3
+   }
+  },
+  {
+   "dia": 25,
+   "fecha": "2026-12-23",
+   "diaSemana": "Miércoles",
+   "etapa": 5,
+   "dinamica": "Nuestra carta al Niño Jesús",
+   "celebracion": null,
+   "objetivo": "Integrar los aprendizajes del retiro y establecer compromisos personales y compartidos para vivir un amor cristiano.",
+   "cita": "Lucas 1,57-66",
+   "meditacion": [
+    "Hemos llegado al final de nuestro retiro de Adviento. Durante estos veinticinco días hemos reflexionado sobre nuestras necesidades, la comunicación, la confianza, los límites, la gratitud y el amor que se demuestra con acciones.",
+    "Ahora estamos a las puertas de la Navidad.",
+    "El nacimiento de Jesús nos recuerda que Dios se acerca a nuestra humanidad con amor y misericordia.",
+    "No necesitamos presentar una relación perfecta. Necesitamos reconocer sinceramente nuestra realidad y discernir qué pasos nos ayudarán a vivir de manera más coherente con el Evangelio.",
+    "Quizá hemos descubierto aspectos positivos que deseamos fortalecer. Tal vez reconocimos conductas que necesitan cambiar o decisiones que requieren mayor reflexión.",
+    "El amor cristiano no se mide únicamente por la duración de una relación, sino también por la verdad, la dignidad, la libertad, la responsabilidad y el bien que se procura mutuamente.",
+    "Que este retiro nos ayude a comprender que amar es una vocación que necesita crecer cada día."
+   ],
+   "pasos": [
+    "Colocar una imagen del Niño Jesús en un lugar tranquilo.",
+    "Cada persona revisa las reflexiones que escribió durante el retiro.",
+    "Identificar tres aprendizajes personales.",
+    "Escribir una carta individual al Niño Jesús con agradecimientos, necesidades y compromisos.",
+    "Compartir voluntariamente una parte de la carta.",
+    "Si ambos lo desean, redactar una oración conjunta con un compromiso realista.",
+    "Guardar las cartas en un lugar privado.",
+    "Terminar con un padrenuestro, sin obligar a ningún gesto físico o expresión afectiva."
+   ],
+   "nota": null,
+   "preguntas": "¿Qué aprendí sobre mi manera de amar? ¿Qué deseo mejorar en mí? ¿Qué compromisos podemos asumir libremente y con responsabilidad?",
+   "oracion": [
+    "Señor Jesús:",
+    "Hoy llegamos al final de nuestro camino de Adviento.",
+    "Gracias por estos días de reflexión, oración y encuentro.",
+    "Tú conoces nuestra historia, nuestros sueños, nuestras alegrías y las dificultades que hemos enfrentado.",
+    "Conocés también nuestras necesidades, nuestras diferencias y aquello que todavía debemos aprender.",
+    "Te pedimos que ilumines nuestra manera de amar.",
+    "Enseñanos a escucharnos con paciencia, a expresar nuestros sentimientos con sinceridad y a respetar la dignidad y libertad de cada uno.",
+    "Que nuestras palabras nunca sean instrumentos de humillación.",
+    "Que nuestras decisiones no nazcan del miedo, la imposición ni el egoísmo.",
+    "Ayudanos a reconocer nuestros errores y a repararlos con responsabilidad.",
+    "Danos sabiduría para establecer límites saludables y fortaleza para actuar conforme a la verdad.",
+    "Que sepamos compartir nuestras alegrías sin olvidar nuestras responsabilidades.",
+    "Que aprendamos a acompañarnos sin perdernos a nosotros mismos.",
+    "Y que, cuando llegue la Navidad, podamos contemplar en el Niño Jesús el ejemplo de un amor humilde, generoso y lleno de misericordia.",
+    "Bendecí nuestro presente y guiá nuestras decisiones futuras.",
+    "Ven, Señor Jesús, y enseñanos a amar como Tú nos amas.",
+    "Amén."
+   ],
+   "oracionEsFinal": true,
+   "compromiso": "Conservar las cartas personales y elegir, de común acuerdo, tres prácticas saludables que desean continuar después de Navidad.",
+   "control": {
+    "tipo": "carta"
+   }
+  }
+ ],
+ "oracionFinal": [
+  "Señor Jesús:",
+  "Hoy llegamos al final de nuestro camino de Adviento.",
+  "Gracias por estos días de reflexión, oración y encuentro.",
+  "Tú conoces nuestra historia, nuestros sueños, nuestras alegrías y las dificultades que hemos enfrentado.",
+  "Conocés también nuestras necesidades, nuestras diferencias y aquello que todavía debemos aprender.",
+  "Te pedimos que ilumines nuestra manera de amar.",
+  "Enseñanos a escucharnos con paciencia, a expresar nuestros sentimientos con sinceridad y a respetar la dignidad y libertad de cada uno.",
+  "Que nuestras palabras nunca sean instrumentos de humillación.",
+  "Que nuestras decisiones no nazcan del miedo, la imposición ni el egoísmo.",
+  "Ayudanos a reconocer nuestros errores y a repararlos con responsabilidad.",
+  "Danos sabiduría para establecer límites saludables y fortaleza para actuar conforme a la verdad.",
+  "Que sepamos compartir nuestras alegrías sin olvidar nuestras responsabilidades.",
+  "Que aprendamos a acompañarnos sin perdernos a nosotros mismos.",
+  "Y que, cuando llegue la Navidad, podamos contemplar en el Niño Jesús el ejemplo de un amor humilde, generoso y lleno de misericordia.",
+  "Bendecí nuestro presente y guiá nuestras decisiones futuras.",
+  "Ven, Señor Jesús, y enseñanos a amar como Tú nos amas.",
+  "Amén."
+ ],
+ "clave": "pareja",
+ "nombre": "Caminar juntos hacia Belén",
+ "subtitulo": "25 días para fortalecer nuestro amor con Jesús",
+ "boton": "¡Encuentro completado!",
+ "tipoPreguntas": "Preguntas para conversar en pareja"
+}
