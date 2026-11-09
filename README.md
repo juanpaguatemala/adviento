@@ -8,7 +8,7 @@ Incluye:
 - Tres retiros: personal, familiar y de pareja.
 - Posadas, San Lucas Challenge, Domingos de Adviento, Oraciones y tradiciones.
 - Quiz, artículos y videos.
-- Lector de artículos de BienCatólicos.com que se abre dentro de la app.
+- Enlaces a los artículos de BienCatólicos.com.
 
 Se puede instalar en el celular y funciona sin internet para las reflexiones, retiros y posadas.
 
@@ -19,7 +19,6 @@ index.html            página única de la app
 css/app.css           estilos (modo claro y modo vela)
 js/                   lógica: base, corona, lector, retiros, vistas, app
 data/*.json           todo el contenido (generado desde contenido-adviento.txt)
-api/articulo.js       función de Vercel para leer artículos de BienCatólicos dentro de la app
 img/                  íconos e imagen para compartir
 manifest.json         instalación en la pantalla de inicio
 service-worker.js     funcionamiento sin internet
@@ -64,18 +63,10 @@ Después de cambiar el contenido, sube el número en `VERSION` dentro de `servic
 
 - Todas las respuestas, intenciones y avances se guardan **solo en el celular** (`localStorage`, claves `adv26-*`).
 - No hay registro ni base de datos.
-- La única llamada al servidor es `/api/articulo`, que solo acepta direcciones de biencatolicos.com.
 
-## Lector de artículos
+## Artículos de BienCatólicos
 
-`/api/articulo?url=...` descarga el artículo de BienCatólicos.com y extrae:
-- el título (`.post-title` o `og:title`),
-- la fecha,
-- el cuerpo (`.post-body` de Blogger).
-
-Después limpia el HTML y lo muestra con el estilo de la app.
-
-Si algún día cambia la plantilla de Blogger y no encuentra el cuerpo, la app ofrece el botón **"Abrir en BienCatólicos"**, que abre el artículo en la misma pestaña. Con el botón "atrás" se regresa a la app.
+Los botones de artículos (Domingos, San Lucas, Aprende, Rosario) abren la página de BienCatólicos.com en la misma pestaña. Con el botón "atrás" se regresa a la app, a la misma sección y posición.
 
 ## Pendiente opcional
 

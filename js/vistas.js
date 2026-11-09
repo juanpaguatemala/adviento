@@ -117,7 +117,7 @@
       if (domingos.length) {
         h += '<section class="tarjeta morada"><span class="etiqueta">Artículo del domingo</span>' +
           domingos.map(function (d) {
-            return '<button type="button" class="enlace" data-leer="' + esc(d.url) + '" data-titulo="' + esc(d.titulo) + '"><span class="t">' + esc(d.titulo) + '<small>Se abre aquí mismo, sin salir de la app</small></span>' + ADV.ic.chevron + '</button>';
+            return '<button type="button" class="enlace" data-leer="' + esc(d.url) + '" data-titulo="' + esc(d.titulo) + '"><span class="t">' + esc(d.titulo) + '<small>Leer en BienCatólicos.com</small></span>' + ADV.ic.chevron + '</button>';
           }).join('') + '</section>';
       }
       if (n >= 3 && n <= 26) {
@@ -426,7 +426,7 @@
           (v ? '<div class="rejilla-2"><button type="button" class="btn claro" data-q="repaso">La repaso</button><button type="button" class="btn verde" data-q="sabia">¡Ya lo sabía!</button></div>' : '') +
           '<div class="rejilla-2"><button type="button" class="btn claro" data-q="ant">' + ADV.ic.atras + 'Anterior</button><button type="button" class="btn" data-q="sig">Siguiente' + ADV.ic.adelante + '</button></div>';
       } else if (tab === 1) {
-        h += '<p class="sutil">Se abren aquí mismo, con el botón Regresar.</p><div class="lista-enlaces">' + art.articulos.map(function (a, i) {
+        h += '<p class="sutil">Se abren en BienCatólicos.com. Con el botón "atrás" regresas a la app.</p><div class="lista-enlaces">' + art.articulos.map(function (a, i) {
           return '<button type="button" class="enlace" data-leer="' + esc(a.url) + '" data-titulo="' + esc(a.titulo) + '"><span class="n">' + (i + 1) + '</span><span class="t">' + esc(a.titulo) + '</span>' + ADV.ic.chevron + '</button>';
         }).join('') + '</div>';
       } else {

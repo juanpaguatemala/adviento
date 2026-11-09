@@ -5,6 +5,7 @@
   var V = ADV.vistas;
   var raiz = document.getElementById('vista');
   var rutaActual = null;
+  var regresoY = ADV.tomarRegreso();
 
   var RUTAS = {
     hoy: function () { return V.hoy(); },
@@ -51,7 +52,8 @@
       raiz.parentNode.replaceChild(nuevo, raiz);
       raiz = nuevo;
       if (res && typeof res.bind === 'function') res.bind(raiz);
-      if (mantenerScroll) window.scrollTo(0, y);
+      if (regresoY) { var ry = regresoY; regresoY = 0; window.scrollTo(0, ry); }
+      else if (mantenerScroll) window.scrollTo(0, y);
       else if (cambio) { window.scrollTo(0, 0); raiz.focus({ preventScroll: true }); }
     }).catch(function (e) {
       console.error(e);
@@ -111,8 +113,9 @@
 
   /* ---------------- Arranque ---------------- */
   window.addEventListener('hashchange', function () { pintar(false); });
+  // Si el navegador regresa desde su caché (iPhone), volvemos a la misma posición.
+  window.addEventListener('pageshow', function (e) { if (e.persisted) { var y = ADV.tomarRegreso(); if (y) window.scrollTo(0, y); } });
   pintar(false);
-  ADV.restaurarLector();
 
   if ('serviceWorker' in navigator && location.protocol === 'https:') {
     window.addEventListener('load', function () { navigator.serviceWorker.register('/service-worker.js').catch(function () {}); });
