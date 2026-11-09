@@ -28,7 +28,9 @@ export function extraer(html, base) {
   const titulo = texto(doc.querySelector('.post-title')) || meta('og:title') || texto(doc.querySelector('title'));
   const fechaNodo = doc.querySelector('time.published') || doc.querySelector('abbr.published') || doc.querySelector('.date-header span') || doc.querySelector('.published');
   const fecha = texto(fechaNodo);
-  const cuerpoNodo = doc.querySelector('.post-body') || doc.querySelector('.entry-content') || doc.querySelector('article');
+  const SELECTORES = ['.post-body', '[itemprop="articleBody"]', '.entry-content', '.post-content', '#post-body', '.post .body', 'article .post', 'article'];
+  let cuerpoNodo = null;
+  for (const sel of SELECTORES) { const n = doc.querySelector(sel); if (n && n.text.trim().length > 200) { cuerpoNodo = n; break; } }
   if (!cuerpoNodo) return null;
 
   // Quitamos widgets y piezas que no son parte del artículo.
@@ -79,24 +81,34 @@ export default async function handler(req, res) {
     res.status(400).json({ error: 'Solo se pueden leer artículos de biencatolicos.com' });
     return;
   }
-  const control = new AbortController();
-  const tiempo = setTimeout(() => control.abort(), 8000);
-  try {
-    const r = await fetch(url.href, {
-      signal: control.signal,
-      redirect: 'follow',
-      headers: { 'User-Agent': 'AdvientoBienCatolicos/1.0 (+https://adviento.biencatolicos.com)', Accept: 'text/html' }
-    });
-    if (!r.ok) { res.status(502).json({ error: 'El artículo no respondió' }); return; }
-    const final = validarUrl(r.url) ? r.url : url.href;
-    const html = await r.text();
-    const datos = extraer(html, final);
-    if (!datos) { res.status(422).json({ error: 'No se encontró el contenido del artículo' }); return; }
-    res.setHeader('Cache-Control', 's-maxage=86400, stale-while-revalidate=604800');
-    res.status(200).json({ ...datos, url: final });
-  } catch (e) {
-    res.status(504).json({ error: 'No se pudo cargar el artículo' });
-  } finally {
-    clearTimeout(tiempo);
+  // Probamos la página normal y, si no sirve, la versión móvil de Blogger (?m=1).
+  const intentos = [url.href, url.href + (url.search ? '&' : '?') + 'm=1'];
+  const detalles = [];
+  for (const destino of intentos) {
+    const control = new AbortController();
+    const tiempo = setTimeout(() => control.abort(), 9000);
+    try {
+      const r = await fetch(destino, {
+        signal: control.signal,
+        redirect: 'follow',
+        headers: {
+          'User-Agent': 'Mozilla/5.0 (Linux; Android 14) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Mobile Safari/537.36',
+          Accept: 'text/html,application/xhtml+xml',
+          'Accept-Language': 'es-GT,es;q=0.9'
+        }
+      });
+      if (!r.ok) { detalles.push(destino + ' → HTTP ' + r.status); continue; }
+      const html = await r.text();
+      const datos = extraer(html, url.href);
+      if (!datos || !datos.html || datos.html.length < 80) { detalles.push(destino + ' → no se encontró el cuerpo (' + html.length + ' bytes)'); continue; }
+      res.setHeader('Cache-Control', 's-maxage=86400, stale-while-revalidate=604800');
+      res.status(200).json({ ...datos, url: url.href });
+      return;
+    } catch (e) {
+      detalles.push(destino + ' → ' + (e.name === 'AbortError' ? 'tiempo agotado' : e.message));
+    } finally {
+      clearTimeout(tiempo);
+    }
   }
+  res.status(502).json({ error: 'No se pudo cargar el artículo', detalle: detalles });
 }

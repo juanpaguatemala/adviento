@@ -8,6 +8,19 @@
   var LEMAS = ['Prepárate: el Adviento ya viene', 'La luz de la esperanza ya brilla', 'Preparen el camino del Señor',
     '¡Alégrate, el Señor está cerca!', 'Dios está con nosotros', 'Hoy el amor encuentra un hogar', '¡Feliz Navidad! Cristo, luz del mundo, ha nacido'];
   var ORD = ['Primer', 'Segundo', 'Tercer', 'Cuarto'];
+  var PAISAJE = '<svg class="paisaje" viewBox="0 0 400 120" preserveAspectRatio="xMidYMax slice" aria-hidden="true">' +
+    '<path d="M0 120 L0 92 Q60 80 120 90 T240 86 T400 88 L400 120 Z" fill="#0A1230"/>' +
+    '<g fill="#050A1E">' +
+    '<rect x="18" y="70" width="34" height="50"/><rect x="48" y="58" width="26" height="62"/><path d="M48 58 Q61 40 74 58 Z"/>' +
+    '<rect x="92" y="78" width="40" height="42"/><rect x="128" y="64" width="30" height="56"/><rect x="138" y="44" width="10" height="20"/><path d="M136 44 Q143 32 150 44 Z"/>' +
+    '<rect x="176" y="72" width="44" height="48"/><path d="M176 72 Q198 46 220 72 Z"/><rect x="226" y="84" width="30" height="36"/>' +
+    '<rect x="266" y="66" width="36" height="54"/><rect x="300" y="78" width="40" height="42"/><path d="M300 78 Q320 60 340 78 Z"/><rect x="350" y="70" width="34" height="50"/>' +
+    '<path d="M86 120 L88 70 L90 120 Z"/><path d="M89 72 q-14 -6 -22 2 q10 -10 22 -4 q-6 -12 -18 -12 q14 -2 20 10 q4 -12 16 -12 q-12 4 -14 14 q12 -6 22 2 q-12 -4 -20 2 Z"/>' +
+    '<path d="M244 120 L246 76 L248 120 Z"/><path d="M247 78 q-12 -6 -20 2 q9 -9 20 -4 q-5 -11 -16 -11 q13 -2 18 9 q4 -11 15 -11 q-11 4 -13 13 q11 -6 20 2 q-11 -4 -18 2 Z"/>' +
+    '</g><g fill="#E8C26A">' +
+    '<rect x="28" y="84" width="5" height="7" rx="1"/><rect x="58" y="74" width="5" height="7" rx="1"/><rect x="104" y="90" width="5" height="7" rx="1"/>' +
+    '<rect x="190" y="88" width="6" height="8" rx="1"/><rect x="204" y="88" width="6" height="8" rx="1"/><rect x="278" y="80" width="5" height="7" rx="1"/>' +
+    '<rect x="316" y="92" width="5" height="7" rx="1"/><rect x="362" y="84" width="5" height="7" rx="1" opacity=".7"/></g></svg>';
 
   function ic(nombre, tam) { return ADV.ic[nombre].replace('<svg', '<svg style="width:' + (tam || 18) + 'px;height:' + (tam || 18) + 'px"'); }
   function cuentaNavidad() {
@@ -46,12 +59,14 @@
       if (n === 0) h += '<div class="banner">El Adviento comienza en ' + ADV.diasEntre(hoy, ADV.INICIO) + ' días, el domingo 29 de noviembre. Ya puedes ver todo y prepararte.</div>';
       if (ADV.fechaSimulada) h += '<div class="banner" style="background:var(--dorado);color:var(--noche)">Modo de prueba: simulando el ' + esc(ADV.fechaLarga(hoy)) + '.</div>';
 
-      h += '<section class="saludo"><p class="sutil" style="font-size:1rem">' + saludo + '</p><h1>' + esc(ADV.fechaLarga(hoy)) + '</h1>' +
+      h += '<section class="belen"><svg class="estrella-guia" viewBox="0 0 100 100" aria-hidden="true"><defs><radialGradient id="eg"><stop offset="0" stop-color="#FFF4D0"/><stop offset=".35" stop-color="#E8C26A" stop-opacity=".55"/><stop offset="1" stop-color="#E8C26A" stop-opacity="0"/></radialGradient></defs>' +
+        '<circle cx="50" cy="50" r="48" fill="url(#eg)"/><path d="M50 4 L55 45 L96 50 L55 55 L50 96 L45 55 L4 50 L45 45 Z" fill="#FFF4D0"/><path d="M50 26 L53 47 L74 50 L53 53 L50 74 L47 53 L26 50 L47 47 Z" fill="#FFFFFF" transform="rotate(45 50 50)" opacity=".8"/></svg>' +
+        '<div class="texto"><p class="sutil" style="font-size:1rem">' + saludo + '</p><h1>' + esc(ADV.fechaLarga(hoy)) + '</h1>' +
         '<div class="chips" style="margin-top:10px">' +
         (n >= 1 && n <= 26 ? '<span class="chip">Día ' + n + ' de 26</span>' : '') +
         (sem >= 1 && sem <= 4 ? '<span class="chip' + (sem === 3 ? ' rosa' : '') + '">' + sem + 'ª semana · ' + ADV.SEMANAS[sem] + '</span>' : '') +
         (sem === 5 ? '<span class="chip rosa">Nochebuena</span>' : '') + (sem === 6 ? '<span class="chip rosa">Tiempo de Navidad</span>' : '') +
-        '</div></section>';
+        '</div></div>' + PAISAJE + '</section>';
 
       h += '<section class="corona"><span class="etiqueta">' + esc(etiquetaCorona(hoy)) + '</span>' +
         ADV.coronaSVG(encendidas, ora.velas.map(function (v) { return v.nombre; })) +
@@ -90,10 +105,11 @@
       h += '<section style="display:flex;flex-direction:column;gap:10px"><h2>Tus retiros</h2>';
       [D[7], D[8], D[9]].forEach(function (ret) {
         var hechos = ADV.retiroProgreso(ret.clave), dia = ADV.diaRetiroHoy();
-        h += '<a class="tarjeta retiro-mini" href="#/retiro/' + ret.clave + '" style="gap:6px;padding:14px 16px">' +
-          '<span class="fila entre"><b style="font-family:var(--fuente-titulo);font-size:1.1rem">' + esc(ret.nombre) + '</b><span class="sutil">' + hechos + '/25</span></span>' +
+        h += '<a class="tarjeta retiro-mini ' + ret.clave + '" href="#/retiro/' + ret.clave + '" style="gap:6px;padding:14px 16px">' +
+          '<span class="tipo">Retiro ' + { personal: 'personal', familiar: 'familiar', pareja: 'de pareja' }[ret.clave] + '</span>' +
+          '<span class="fila entre" style="flex-wrap:nowrap;align-items:baseline"><b style="font-family:var(--fuente-titulo);font-size:1.15rem;line-height:1.15">' + esc(ret.nombre) + '</b><span class="sutil" style="white-space:nowrap">' + hechos + '/25</span></span>' +
           '<span style="font-size:.95rem">Día ' + dia + ' · ' + esc(ret.dias[dia - 1].dinamica) + '</span>' +
-          '<span class="progreso morado" style="flex:none;height:10px"><span style="width:' + Math.round(hechos / 25 * 100) + '%"></span></span></a>';
+          '<span class="progreso" style="flex:none;height:10px"><span style="width:' + Math.round(hechos / 25 * 100) + '%"></span></span></a>';
       });
       h += '</section>';
 
@@ -450,10 +466,10 @@
       '<a class="mosaico m-noche" href="#/oraciones"><b>Oraciones y tradiciones</b><small>Velas, pesebre, Nochebuena</small></a>' +
       '<a class="mosaico m-verde" href="#/calendario"><b>Buenas acciones</b><small>Calendario de 26 días</small></a></div>' +
       '<section class="tarjeta"><span class="etiqueta">Ajustes</span>' +
-      '<div class="fila"><span style="font-weight:600;flex:1">Modo vela (oscuro)</span><div class="fila" role="group" aria-label="Tema">' +
-      ['auto', 'light', 'dark'].map(function (t) {
-        var act = (tema || 'auto') === t;
-        return '<button type="button" class="btn chico ' + (act ? '' : 'claro') + '" data-tema="' + t + '" aria-pressed="' + act + '">' + { auto: 'Automático', light: 'Claro', dark: 'Vela' }[t] + '</button>';
+      '<div class="fila"><span style="font-weight:600;flex:1">Apariencia</span><div class="fila" role="group" aria-label="Apariencia">' +
+      ['dark', 'light'].map(function (t) {
+        var act = tema === t;
+        return '<button type="button" class="btn chico ' + (act ? '' : 'claro') + '" data-tema="' + t + '" aria-pressed="' + act + '">' + { light: 'Día', dark: 'Noche de Belén' }[t] + '</button>';
       }).join('') + '</div></div>' +
       '<div class="fila"><span style="font-weight:600;flex:1">Tamaño de letra</span><button type="button" class="btn chico claro" data-letra="-1" aria-label="Letra más pequeña">A−</button><button type="button" class="btn chico claro" data-letra="1" aria-label="Letra más grande">A+</button></div>' +
       '<div class="fila"><button type="button" class="btn chico" data-compartir>' + ADV.ic.compartir + 'Compartir la app</button>' +

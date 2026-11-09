@@ -62,11 +62,13 @@
 
   /* ---------------- Ajustes: tema y tamaño de letra ---------------- */
   // El tema se guarda como texto simple porque lo lee el script del <head> antes de pintar.
-  ADV.temaActual = function () { try { return localStorage.getItem('adv26-tema') || 'auto'; } catch (e) { return 'auto'; } };
+  // Por defecto, "Noche de Belén" (oscuro). La persona puede elegir "Día" (claro).
+  ADV.temaActual = function () { try { return localStorage.getItem('adv26-tema') === 'light' ? 'light' : 'dark'; } catch (e) { return 'dark'; } };
   ADV.ponerTema = function (t) {
-    var efectivo = t === 'auto' ? (window.matchMedia && matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light') : t;
-    document.documentElement.setAttribute('data-theme', efectivo);
-    try { if (t === 'auto') localStorage.removeItem('adv26-tema'); else localStorage.setItem('adv26-tema', t); } catch (e) {}
+    t = t === 'light' ? 'light' : 'dark';
+    document.documentElement.setAttribute('data-theme', t);
+    var meta = document.querySelector('meta[name="theme-color"]'); if (meta) meta.setAttribute('content', t === 'light' ? '#FFF8EC' : '#0B1026');
+    try { localStorage.setItem('adv26-tema', t); } catch (e) {}
   };
   ADV.cambiarLetra = function (d) {
     var e = Math.max(.9, Math.min(1.35, (parseFloat(ADV.store.get('escala', 1)) || 1) + d * .075));

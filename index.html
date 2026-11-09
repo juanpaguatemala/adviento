@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <title>Adviento · BienCatólicos</title>
   <meta name="description" content="Vive el Adviento en familia: reflexión diaria, corona digital, calendario de buenas acciones, retiros personal, familiar y de pareja, posadas y más. Una iniciativa de BienCatólicos.com.">
-  <meta name="theme-color" content="#4B2A7B">
+  <meta name="theme-color" content="#0B1026">
   <meta property="og:type" content="website">
   <meta property="og:title" content="Adviento · BienCatólicos">
   <meta property="og:description" content="Enciende tu luz y prepara tu corazón para la Navidad: reflexiones, corona digital, retiros, posadas y buenas acciones.">
@@ -17,14 +17,13 @@
   <link rel="apple-touch-icon" href="/img/icono-180.png">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@500;600;700;800&family=Lora:ital,wght@0,400;0,600;1,400&display=swap">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,600;0,700;0,800;1,600&family=Lora:ital,wght@0,400;0,600;1,400&family=Montserrat:wght@500;600;700&display=swap">
   <link rel="stylesheet" href="/css/app.css">
   <script>
     // Tema y tamaño de letra antes de pintar, para evitar parpadeos.
     try {
       var t = localStorage.getItem('adv26-tema');
-      if (!t && window.matchMedia && matchMedia('(prefers-color-scheme: dark)').matches) t = 'dark';
-      if (t) document.documentElement.setAttribute('data-theme', t);
+      document.documentElement.setAttribute('data-theme', t === 'light' ? 'light' : 'dark');
       var e = localStorage.getItem('adv26-escala'); if (e) document.documentElement.style.setProperty('--escala', e);
     } catch (err) {}
   </script>
@@ -32,12 +31,12 @@
 <body>
   <div class="app">
     <header class="cabecera">
-      <a class="marca" href="#/hoy" aria-label="Adviento, inicio">Bien<span>Católicos</span> <small>· Adviento</small></a>
+      <a class="marca" href="#/hoy" aria-label="Adviento, inicio"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 1l1.6 8.4L22 12l-8.4 1.6L12 23l-1.6-9.4L2 12l8.4-2.6z" fill="#E8C26A"/></svg><span style="color:inherit">Bien<span>Católicos</span> <small>· Adviento</small></span></a>
       <div class="acciones">
         <button class="icono-btn" id="btn-letra" type="button" aria-label="Cambiar tamaño de letra">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 19l5-14 5 14M6 14h6M15 19l3-8 3 8M16 16.5h4"/></svg>
         </button>
-        <button class="icono-btn" id="btn-tema" type="button" aria-label="Modo vela (oscuro)">
+        <button class="icono-btn" id="btn-tema" type="button" aria-label="Cambiar entre noche y día">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>
         </button>
       </div>

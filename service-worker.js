@@ -1,5 +1,5 @@
 /* Adviento · BienCatólicos — funciona sin internet para reflexiones, retiros y posadas. */
-var VERSION = 'adv26-v1';
+var VERSION = 'adv26-v2';
 var BASE = [
   '/', '/index.html', '/manifest.json', '/css/app.css',
   '/js/base.js', '/js/corona.js', '/js/lector.js', '/js/retiros.js', '/js/vistas.js', '/js/app.js',

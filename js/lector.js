@@ -79,7 +79,12 @@
       return;
     }
     fetch('/api/articulo?url=' + encodeURIComponent(url))
-      .then(function (r) { if (!r.ok) throw new Error('http ' + r.status); return r.json(); })
+      .then(function (r) {
+        if (r.ok) return r.json();
+        return r.json().catch(function () { return {}; }).then(function (j) {
+          var e = new Error('http ' + r.status); e.detalle = (j && j.detalle) ? [].concat(j.detalle).join(' · ') : ('HTTP ' + r.status); throw e;
+        });
+      })
       .then(function (d) {
         if (!capa) return;
         capa.querySelector('[data-l="titulo"]').textContent = d.titulo || tituloSugerido || '';
@@ -87,12 +92,14 @@
           '<h1>' + ADV.esc(d.titulo || tituloSugerido || '') + '</h1>' + (d.html || '') + botonFuera + '</article>';
         aplicarEscala();
       })
-      .catch(function () {
+      .catch(function (err) {
         if (!capa) return;
+        var motivo = (err && err.detalle) ? err.detalle : (err && err.message ? err.message : '');
         cuerpo.innerHTML = '<article><span class="etiqueta">BienCatólicos.com</span><h1>' + ADV.esc(tituloSugerido || 'Artículo') + '</h1>' +
           '<p>No pudimos cargar el artículo dentro de la app en este momento.</p>' +
           '<p style="margin-top:16px"><a class="btn" data-externo href="' + ADV.esc(url) + '">' + ADV.ic.externo + 'Abrir en BienCatólicos</a></p>' +
-          '<p class="sutil" style="margin-top:12px">Se abre en esta misma pestaña. Con el botón "atrás" regresas a la app, al mismo lugar.</p></article>';
+          '<p class="sutil" style="margin-top:12px">Se abre en esta misma pestaña. Con el botón "atrás" regresas a la app, al mismo lugar.</p>' +
+          (motivo ? '<p class="sutil" style="margin-top:18px;font-size:.75rem;opacity:.7">Detalle técnico: ' + ADV.esc(motivo) + '</p>' : '') + '</article>';
       });
   }
 
